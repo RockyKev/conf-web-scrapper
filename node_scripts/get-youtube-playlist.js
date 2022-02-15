@@ -4,41 +4,75 @@ const { generateFile } = require("./utilities");
 
 // const playId = "UU_aEa8K-EOJ3D6gOs7HcyNg";
 
-async function getThatPlayList() {
-  console.log("here we go!");
-
+async function getThatPlayList(meta) {
   try {
-    const songs = await ytpl(playId, { pages: 5 });
+    console.log("Calling ytpl - pulling songs");
+    const { playlistId, conference, year } = meta;
 
-    console.log("im in try");
+    const songs = await ytpl(playlistId, { pages: 5 });
 
-    // cleanTheData(songs);
+    const newFilename = `${conference.toLowerCase().replaceAll(" ", "-")}-${year}`;
 
-    generateFile("./cheerio_data/test.json",  JSON.stringify(cleanTheData(songs)));
+    generateFile(
+      `./cheerio_data/${newFilename}.json`,
+      JSON.stringify(cleanTheData(songs, conference, year)),
+      false
+    );
     console.log("finished");
   } catch (error) {
     console.log(error);
   }
 }
 
-function cleanTheData(data) {
+function cleanTheData(data, title, year) {
   const items = data.items;
 
   let returnData = {
-    title: "conference",
-    year: 2020,
+    title: title,
+    year: year,
+    titleOriginal: data.title,
+    description: data.description,
   };
 
   items.forEach((item) => {
-    // title format - maybe cleaning too?
+    let splitTitle, presentation, author;
+
+    // Title reformatting - this might need it's own function!
+    if (item.title.includes("-")) {
+      splitTitle = item.title.split("-");
+      presentation = splitTitle[0].trim();
+      author = splitTitle[1].trim();
+    } else if (item.title.includes("|")) {
+      splitTitle = item.title.split("|");
+      presentation = splitTitle[0].trim();
+      author = splitTitle[1].trim();
+    } else {
+      splitTitle = "";
+      presentation = item.title;
+      author = "PLEASEFIX";
+    }
+
     returnData[item.id] = {
-      title: item.title,
+      title: presentation,
+      author: author,
       shortUrl: item.shortUrl,
       duration: item.duration,
+      thumbnail: item.bestThumbnail,
     };
   });
 
-  return  returnData;
+  return {
+    cleaned: returnData,
+    debugging: data,
+  };
 }
 
-getThatPlayList();
+console.log("Let's get started");
+
+const playlist = {
+  playlistId: "PL0TQYXcAtbwSh9ZbY-34J9XK2fVR23aCl",
+  conference: "International JavaScript Conference",
+  year: 2019,
+};
+
+getThatPlayList(playlist);
