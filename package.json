@@ -7,15 +7,16 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
     "node:conf": "node node_scripts/get-conf-data.js",
+    "node:ytpl": "node node_scripts/get-youtube-playlist.js",
     "node:gzip": "node node_scripts/turn-gz-into-data.js",
     "node:merge": "node node_scripts/merge-data-into-single.js"
-
   },
   "dependencies": {
     "axios": "^0.25.0",
     "chart.js": "^3.7.0",
     "core-js": "^3.6.5",
-    "vue": "^3.0.0"
+    "vue": "^3.0.0",
+    "ytpl": "^2.2.3"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",

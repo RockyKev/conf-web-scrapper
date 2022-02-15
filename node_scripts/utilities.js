@@ -24,6 +24,14 @@ function generateFile(src, data, setDate = true) {
   // TODO: consider using path?
   // https://nodejs.org/api/path.html
 
+
+
+  
+  // TODO: do a pre-check that it's a Buffer, TypedArray, or DataView
+  // if (typeof data !== 'string') {
+    
+  // }
+
   // Check if there's a slash in it
   const directoryOnly = src.substr(0, src.lastIndexOf("/"));
   const filenameOnly = src.substring(src.lastIndexOf("/") + 1);
