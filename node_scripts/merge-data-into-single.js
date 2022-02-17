@@ -5,7 +5,7 @@ const date = require('date-and-time');
 const { getFilesFromPath, generateFile } = require("./utilities");
 
 // 1 - get entire directory of files
-const directory = getFilesFromPath('cheerio_data/unzip', 'json')
+const directory = getFilesFromPath('video_data/clean', 'json')
 
 // 2 - turn the filename into the object key
 let object = {}
