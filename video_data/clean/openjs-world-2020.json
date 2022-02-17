@@ -1,0 +1,810 @@
+{
+  "conferenceOwner": "OpenJS",
+  "conference": "OpenJS World",
+  "year": "2020",
+  "titleOriginal": "OpenJS World 2020",
+  "description": "Keynotes and sessions from OpenJSWorld 2020. OpenJS World is the OpenJS Foundation's global conference.",
+  "doug6st5vAs": {
+    "title": "Deno, a Secure Runtime for JavaScript and TypeScript",
+    "author": "Ryan Dahl, Deno Land",
+    "shortUrl": "https://www.youtube.com/watch?v=doug6st5vAs",
+    "duration": "27:39",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/doug6st5vAs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXFYUbohLCYEMWp55tUWvdGncWiw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "y-vlPdW5IoM": {
+    "title": "Low Code for the Node.js Developer",
+    "author": "Nick O Leary, IBM",
+    "shortUrl": "https://www.youtube.com/watch?v=y-vlPdW5IoM",
+    "duration": "20:09",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/y-vlPdW5IoM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAn_UZqDCCbn3BPdS_aHIOjW_Ig_g",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "j2-mrQDJ_Sk": {
+    "title": "Keynote: Reaching Your Dreams In Tech and Science",
+    "author": "Christina H. Koch, NASA Astronaut",
+    "shortUrl": "https://www.youtube.com/watch?v=j2-mrQDJ_Sk",
+    "duration": "35:21",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/j2-mrQDJ_Sk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAvNX_O92zV97aLDZcNPng9fuXY4w",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "3c-RFpaiUT8": {
+    "title": "webpack 5 Miniseries",
+    "author": "Tobias Koppers, webpack",
+    "shortUrl": "https://www.youtube.com/watch?v=3c-RFpaiUT8",
+    "duration": "28:28",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/3c-RFpaiUT8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDq20QISZh1DTyXaVF6ljEicYsKSQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "_ZTw2fsQF2o": {
+    "title": "Keynote: Welcome Remarks",
+    "author": "Robin Bender Ginn, Executive Director, OpenJS Foundation",
+    "shortUrl": "https://www.youtube.com/watch?v=_ZTw2fsQF2o",
+    "duration": "9:29",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/_ZTw2fsQF2o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC0TBhQw-lSMKp5EvzLkzj6CE29Zg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "mOjfdFALAec": {
+    "title": "From Streaming to Studio",
+    "author": "",
+    "shortUrl": "https://www.youtube.com/watch?v=mOjfdFALAec",
+    "duration": "19:18",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/mOjfdFALAec/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDFRPxY2rVsLfwL6YKgAhxhaPB35g",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "oVCjDWeehAQ": {
+    "title": "Cover your Projects with a Multi purpose Lightweight Node.js Registry",
+    "author": "Juan Carlos Picado Herrer",
+    "shortUrl": "https://www.youtube.com/watch?v=oVCjDWeehAQ",
+    "duration": "22:03",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/oVCjDWeehAQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAnSwlN_JeBlzVRc8RKMULqjT36yQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "4qM3R69OzbQ": {
+    "title": "VS Code Tips and Tricks",
+    "author": "Sana Ajani, Microsoft",
+    "shortUrl": "https://www.youtube.com/watch?v=4qM3R69OzbQ",
+    "duration": "27:51",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/4qM3R69OzbQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLABl4FZWHQODzWVgdcixmOWDtE-bg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "H5Nw2mh7AmE": {
+    "title": "Workshop: The Nuts and Bolts of WebdriverIO",
+    "author": "Christian Bromann, Sauce Labs",
+    "shortUrl": "https://www.youtube.com/watch?v=H5Nw2mh7AmE",
+    "duration": "1:49:10",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/H5Nw2mh7AmE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCRYVdag7CW8MYs9KDRMtsutbVoBw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "yRyfr1Qcf34": {
+    "title": "Workshop: Broken Promises, The Workshop Edition",
+    "author": "Matteo Collina and James Snell, NearForm",
+    "shortUrl": "https://www.youtube.com/watch?v=yRyfr1Qcf34",
+    "duration": "1:45:13",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/yRyfr1Qcf34/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCoZq8Ev-pNH64qsg38rsnfU6olFw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "kZm1MMPaMpI": {
+    "title": "Import { modules } as esm from “nodejs”",
+    "author": "Tierney Cyren, Microsoft",
+    "shortUrl": "https://www.youtube.com/watch?v=kZm1MMPaMpI",
+    "duration": "20:39",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/kZm1MMPaMpI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAQR_LrKwbCHlGfiLNVXjI-T3g08w",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "e0rdy7APH-o": {
+    "title": "Build a Community, Not a Framework",
+    "author": "Matteo Collina, NearForm",
+    "shortUrl": "https://www.youtube.com/watch?v=e0rdy7APH-o",
+    "duration": "29:30",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/e0rdy7APH-o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBkqDFDKKurnRPw80IUYbhkOMe0yQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "WjJdJkkriyE": {
+    "title": "Applying Advanced TypeScript Definition Patterns",
+    "author": "Ethan Arrowood, Microsoft",
+    "shortUrl": "https://www.youtube.com/watch?v=WjJdJkkriyE",
+    "duration": "26:25",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/WjJdJkkriyE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLChYnLhsAdsrC_7yfrDySi4rOt7rQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "khVnbRlr3qI": {
+    "title": "Machine Learning for JavaScript Developers 101",
+    "author": "Jason Mayes, Google",
+    "shortUrl": "https://www.youtube.com/watch?v=khVnbRlr3qI",
+    "duration": "32:23",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/khVnbRlr3qI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBTPRRRnZTbUVObfQ4jE-JlwvaQZQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "MIS6zNPfSuA": {
+    "title": "Resuscitating IoT with JavaScript",
+    "author": "Peter Hoddie & Lizzie Prader, Moddable",
+    "shortUrl": "https://www.youtube.com/watch?v=MIS6zNPfSuA",
+    "duration": "19:18",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/MIS6zNPfSuA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBH4H1crEAvEEJoyfyaSS1vHBL-iQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "5qNxiBrOk1U": {
+    "title": "Hint, Hint!  Best Practices for Web Developers with webhint",
+    "author": "Rachel Simone Weil, Microsoft",
+    "shortUrl": "https://www.youtube.com/watch?v=5qNxiBrOk1U",
+    "duration": "22:45",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/5qNxiBrOk1U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDdYJTXuYZ0G6jB-bGqO8UlqY1h1A",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "8gYkSM2QIek": {
+    "title": "Modern JavaScript Infrastructures",
+    "author": "Maël Nison, Datadog",
+    "shortUrl": "https://www.youtube.com/watch?v=8gYkSM2QIek",
+    "duration": "20:33",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/8gYkSM2QIek/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBNF5TQb1JSOtAQ-SS50KtOTJmmVA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "GHbdMUr1Dio": {
+    "title": "Getting Certified: How and Why",
+    "author": "David Mark Clements",
+    "shortUrl": "https://www.youtube.com/watch?v=GHbdMUr1Dio",
+    "duration": "31:53",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/GHbdMUr1Dio/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLABLPAe47rwqcgCOaD980xijmi3cw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "Jhs-Cs1xI9k": {
+    "title": "Keynote: Learning by Teaching for Your Community",
+    "author": "Cassidy Williams, Netlify",
+    "shortUrl": "https://www.youtube.com/watch?v=Jhs-Cs1xI9k",
+    "duration": "16:37",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/Jhs-Cs1xI9k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAAtERSNeS6VscHG1iYbTz3RzXjKQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "QaA5C1Y4BH0": {
+    "title": "Contributing to WebdriverIO Session at OpenJS Foundation Collaborator's Summit 2020",
+    "author": "NO AUTHOR NAME",
+    "shortUrl": "https://www.youtube.com/watch?v=QaA5C1Y4BH0",
+    "duration": "1:51:28",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/QaA5C1Y4BH0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBXy2SW6SZWyetCCsDb7A5kAIz8CQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "1nYswjtEUvE": {
+    "title": "Behind the Scenes of Node.js Distributions",
+    "author": "Liz Parody & Adrian Estrada, NodeSource",
+    "shortUrl": "https://www.youtube.com/watch?v=1nYswjtEUvE",
+    "duration": "19:06",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/1nYswjtEUvE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAq2JEZLUsla51dfC5O5_T6nerQIQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "dw7ABwvFtdM": {
+    "title": "The Benefits of a “CLI First” Development Strategy",
+    "author": "Corey Butler, Ecor Ventures",
+    "shortUrl": "https://www.youtube.com/watch?v=dw7ABwvFtdM",
+    "duration": "30:01",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/dw7ABwvFtdM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCS2rTMUzyP9ZVa-7B5XexQ7Bw6aA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "97sqh1z3OXk": {
+    "title": "Keynote: Who Says Elephants Can't Dance with Node.js and JavaScript",
+    "author": "Michael Dawson & Joe Sepi",
+    "shortUrl": "https://www.youtube.com/watch?v=97sqh1z3OXk",
+    "duration": "21:43",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/97sqh1z3OXk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBwBHIiPciCvrMkRMBU-qMIVuQd3w",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "uvJ4-_BjXyg": {
+    "title": "Design Systems Aren’t Hard",
+    "author": "Dustin Younse, Indeed",
+    "shortUrl": "https://www.youtube.com/watch?v=uvJ4-_BjXyg",
+    "duration": "18:22",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/uvJ4-_BjXyg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBRuU0yc_rhzV081-zkE6FK_IZuLw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "-Jkg0zJ-dEs": {
+    "title": "Keynote: We Don’t Code Alone",
+    "author": "Anil Dash, Chief Executive Officer, Glitch",
+    "shortUrl": "https://www.youtube.com/watch?v=-Jkg0zJ-dEs",
+    "duration": "19:39",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/-Jkg0zJ-dEs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBdHgaGxh30ZXb_nVpz2lG1673nSg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "4NbHgfuV6vE": {
+    "title": "Keynote: On Page Experience",
+    "author": "Malte Ubl, Principal Engineer, Google",
+    "shortUrl": "https://www.youtube.com/watch?v=4NbHgfuV6vE",
+    "duration": "8:53",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/4NbHgfuV6vE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDTfT6S3-Wx6xVR79_LjbZ4KfqF7Q",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "ImjzA7EMI6I": {
+    "title": "The Minimum Viable Chunk",
+    "author": "Jan Krems, Google",
+    "shortUrl": "https://www.youtube.com/watch?v=ImjzA7EMI6I",
+    "duration": "19:33",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/ImjzA7EMI6I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBLT23hIvnE4oEpuri6OvoYQtvaFA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "JhQ-PuwoWAE": {
+    "title": "Workshop: Dead",
+    "author": "Simple Testing with Mocha",
+    "shortUrl": "https://www.youtube.com/watch?v=JhQ-PuwoWAE",
+    "duration": "1:42:55",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/JhQ-PuwoWAE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDyCoyOOe7QbIQs0WPJGkiuFHbtdQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "cMXPJwDhBBI": {
+    "title": "We'd Like To Level With You About Node.js",
+    "author": "Rich Trott & Anna Henningsen",
+    "shortUrl": "https://www.youtube.com/watch?v=cMXPJwDhBBI",
+    "duration": "29:18",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/cMXPJwDhBBI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAgwnZ2fYun2Xhbw8NCWb5z9JposA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "2S_e5xz01mE": {
+    "title": "Lightning Talk: The $103k API: How NodeJS Saved the U.S. Government $100k",
+    "author": "Ryan Hillard",
+    "shortUrl": "https://www.youtube.com/watch?v=2S_e5xz01mE",
+    "duration": "6:27",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/2S_e5xz01mE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDBxkXTG0jv83uhVHjpsmIcTJxxSA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "m5X29tof1ps": {
+    "title": "Workerized JavaScript Made Easy",
+    "author": "Ben Morss, Google",
+    "shortUrl": "https://www.youtube.com/watch?v=m5X29tof1ps",
+    "duration": "26:33",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/m5X29tof1ps/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCWPCFmeHaJ76XgtxZWzeSA3J3y8Q",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "HHoMq2IZLxg": {
+    "title": "Developer Fan Fiction: Modules Edition",
+    "author": "Myles Borins & Guy Bedford",
+    "shortUrl": "https://www.youtube.com/watch?v=HHoMq2IZLxg",
+    "duration": "28:41",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/HHoMq2IZLxg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAO6DFFVJn0g1E6X7ZGIQYhF6shjQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "BtD2OrlLBhI": {
+    "title": "What the AST?",
+    "author": "Dominik Kundel, Twilio",
+    "shortUrl": "https://www.youtube.com/watch?v=BtD2OrlLBhI",
+    "duration": "29:36",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/BtD2OrlLBhI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLColdoiU-VRJzCISqr716Wluec1Ww",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "c6d7W6J0mrc": {
+    "title": "Keynote: Communities at Work",
+    "author": "Juan Pablo Buriticá, Latam",
+    "shortUrl": "https://www.youtube.com/watch?v=c6d7W6J0mrc",
+    "duration": "15:17",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/c6d7W6J0mrc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCqV24-6KE1zvqt7reUtfTxwPC8sA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "ASkeTIqWdvQ": {
+    "title": "Kubernetes by Keytar",
+    "author": "Jan Kleinert, Red Hat",
+    "shortUrl": "https://www.youtube.com/watch?v=ASkeTIqWdvQ",
+    "duration": "19:40",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/ASkeTIqWdvQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBHYy_z1xpKfHCO6fmHVDroUUTxjg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "bpvp_bYnY2Q": {
+    "title": "The Web Platform Podcast, Evolution of Modern JavaScript w/ Jordan Harband LIVE @ OpenJS World 2020",
+    "author": "NO AUTHOR NAME",
+    "shortUrl": "https://www.youtube.com/watch?v=bpvp_bYnY2Q",
+    "duration": "40:13",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/bpvp_bYnY2Q/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCSCnyk70dCOvCZ1Z3otTDy2ccGjQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "9Joy4w5mS-k": {
+    "title": "Keynote: Production Loading Performance 10 Years Later",
+    "author": "Nicole Sullivan and Shubhie Panicker,  Google",
+    "shortUrl": "https://www.youtube.com/watch?v=9Joy4w5mS-k",
+    "duration": "17:23",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/9Joy4w5mS-k/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBUQHnPm0e4L1nk2cmmvugpS50wJg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "ZBuidvXnTKY": {
+    "title": "Lightning Talk: Holy WebSocket Revival: Serverless Sockets for Real Time Communication, Paul Chin",
+    "author": "NO AUTHOR NAME",
+    "shortUrl": "https://www.youtube.com/watch?v=ZBuidvXnTKY",
+    "duration": "5:05",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/ZBuidvXnTKY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA2hTiPOdCVZju4fqgRp_osryS0AA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "jiIEPbuPb3c": {
+    "title": "Observability with OpenTelemetry",
+    "author": "Gianluca Arbezzano, Packet",
+    "shortUrl": "https://www.youtube.com/watch?v=jiIEPbuPb3c",
+    "duration": "28:35",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/jiIEPbuPb3c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBZ-7ft9kvjSGk3IkJ1WoJurKhrXw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "sNnGZNzCIwk": {
+    "title": "Features of WebXR",
+    "author": "Ada Rose Cannon, Samsung",
+    "shortUrl": "https://www.youtube.com/watch?v=sNnGZNzCIwk",
+    "duration": "26:20",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/sNnGZNzCIwk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBmFNWqiOZKXF0hUs_dYKlMRPcHqQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "tasGnX8OUJ0": {
+    "title": "Optimized Hydration via Compile Time Static Analysis",
+    "author": "Michael Rawlings   & Dylan Piercey, eBay",
+    "shortUrl": "https://www.youtube.com/watch?v=tasGnX8OUJ0",
+    "duration": "21:33",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/tasGnX8OUJ0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCu3m6cKzFspgia8LMDY1O6NRq1Dw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "mCijRVgVOGI": {
+    "title": "Workshop: Test all the Things with Intern",
+    "author": "Jason Cheatham, SitePen",
+    "shortUrl": "https://www.youtube.com/watch?v=mCijRVgVOGI",
+    "duration": "1:10:00",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/mCijRVgVOGI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDJmizAxtja7nRPBc_9Ko2-SxfpRw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "jKws0lWm7Ms": {
+    "title": "Keynote: Electron + OpenJS",
+    "author": "Keeley Hammond, Senior Software Engineer, InVision",
+    "shortUrl": "https://www.youtube.com/watch?v=jKws0lWm7Ms",
+    "duration": "9:00",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/jKws0lWm7Ms/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDdXvN6x8OvWybzsBVvucHDkYmW3w",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "h8u3MStd89E": {
+    "title": "User Centric Testing for 2020: How Expedia Modernized its Testing for the Web",
+    "author": "Tiffany Le Nguye",
+    "shortUrl": "https://www.youtube.com/watch?v=h8u3MStd89E",
+    "duration": "23:47",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/h8u3MStd89E/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCDjTV4gIl1jbpgoBHb02IJTq3ZFw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "1xfz2l6isqY": {
+    "title": "Possible Tools: The Present & Future of Tooling in Node.js",
+    "author": "Christopher Hiller, IBM",
+    "shortUrl": "https://www.youtube.com/watch?v=1xfz2l6isqY",
+    "duration": "36:41",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/1xfz2l6isqY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBEjfQ92vnU-c_mJplwgzqhKi93Xg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "baYzd1kNiKs": {
+    "title": "Project Lightning Talk: Fastify",
+    "author": "Matteo Collina",
+    "shortUrl": "https://www.youtube.com/watch?v=baYzd1kNiKs",
+    "duration": "4:41",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/baYzd1kNiKs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCXb8AK4UvNsnWRr4sXNlLGZLRIiw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "mXPBYoRNxUA": {
+    "title": "A Practical Guide to Contributing  Node.js and Other OpenJS Projects",
+    "author": "Joe Sepi, IBM",
+    "shortUrl": "https://www.youtube.com/watch?v=mXPBYoRNxUA",
+    "duration": "23:52",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/mXPBYoRNxUA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCE50CYPIOycP29Nr1JIFm6pIDD5w",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "HZZrbVKAC-4": {
+    "title": "Towards a Sustainable Solution to Open Source Sustainability",
+    "author": "Tobie Langel, UnlockOpen",
+    "shortUrl": "https://www.youtube.com/watch?v=HZZrbVKAC-4",
+    "duration": "29:06",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/HZZrbVKAC-4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCaHxsJFw9EW92mV4HiewXkKG15ag",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "TkEty9PV9ro": {
+    "title": "Keynote: JavaScript Security Panel",
+    "author": "Adam Baldwin, Jessica Wilkerson and Michael Dawson",
+    "shortUrl": "https://www.youtube.com/watch?v=TkEty9PV9ro",
+    "duration": "21:51",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/TkEty9PV9ro/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC7ZB6e0WpXMwweDikhMpo_GN2duQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "o30j-gm0eq4": {
+    "title": "Keynote: Exploring the History of JavaScript",
+    "author": "Allen Wirfs Brock & Alex Williams",
+    "shortUrl": "https://www.youtube.com/watch?v=o30j-gm0eq4",
+    "duration": "19:44",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/o30j-gm0eq4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAbyeE0JEQCsQAAuta7ZNzVBrUgaw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "z8CDuQAtbSU": {
+    "title": "Keynote: Media Performance at Scale",
+    "author": "Prosper Otemuyiwa, Co",
+    "shortUrl": "https://www.youtube.com/watch?v=z8CDuQAtbSU",
+    "duration": "20:28",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/z8CDuQAtbSU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB-e_ph7v9Lw74MtbHrti9vWGTSSA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "E17Gcf8fXFQ": {
+    "title": "Lightning Talk: You’re Probably Wondering How I Got Here",
+    "author": "Sofia Leon, Google",
+    "shortUrl": "https://www.youtube.com/watch?v=E17Gcf8fXFQ",
+    "duration": "5:00",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/E17Gcf8fXFQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDzCV8ddFv3mxnQL5uQCJ-rZPcWKQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "VUm5uUlJvBY": {
+    "title": "Project Lightning Talk: jQuery",
+    "author": "Michał Gołębiowski Owczarek",
+    "shortUrl": "https://www.youtube.com/watch?v=VUm5uUlJvBY",
+    "duration": "4:34",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/VUm5uUlJvBY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAscLE0pe52lCfaIviBuBfVj0pc9g",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "HqIstZSsCTA": {
+    "title": "WebdriverIO Contributor's Meeting at OpenJS Foundation Collaborator's Summit 2020",
+    "author": "NO AUTHOR NAME",
+    "shortUrl": "https://www.youtube.com/watch?v=HqIstZSsCTA",
+    "duration": "1:03:10",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/HqIstZSsCTA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCrUY_-EIQasDA7MW9rjeLTYZGvtQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "JuKIUYi8-Ec": {
+    "title": "Lightning Talk: Everything you Didn't Want to Know about Source Maps",
+    "author": "Benjamin Coe, Google",
+    "shortUrl": "https://www.youtube.com/watch?v=JuKIUYi8-Ec",
+    "duration": "4:59",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/JuKIUYi8-Ec/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCtn2gT9z7GEW3O3vEFA_bVBSJckQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "epRrkQzGMFA": {
+    "title": "Unlocking New web Capabilities",
+    "author": "Maye Edwin",
+    "shortUrl": "https://www.youtube.com/watch?v=epRrkQzGMFA",
+    "duration": "8:52",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/epRrkQzGMFA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDN67-mlsb7t2pvTaAwAJdgmYFC5A",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "Skqq7_SbaAo": {
+    "title": "Workshop: Make Your First AMP Site",
+    "author": "Ben Morss, Google",
+    "shortUrl": "https://www.youtube.com/watch?v=Skqq7_SbaAo",
+    "duration": "1:39:17",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/Skqq7_SbaAo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCv1h-ChePu-Lfi_jDN3ypvx37qXA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "arU9YwPo2I0": {
+    "title": "Project Lightning Talk: Nvm",
+    "author": "Jordan Harband",
+    "shortUrl": "https://www.youtube.com/watch?v=arU9YwPo2I0",
+    "duration": "4:41",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/arU9YwPo2I0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD2YocGNz2gPB9JNgEj5Xc1QOOwyg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "xgbn25tedu4": {
+    "title": "Keynote How not to Save the World with Tech",
+    "author": "Dr. Joy Lisi Rankin & Kris Borchers",
+    "shortUrl": "https://www.youtube.com/watch?v=xgbn25tedu4",
+    "duration": "24:58",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/xgbn25tedu4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDH6yQFVPXSSCz4OxLSKD3P1pJnvA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "cxXfsu-11UE": {
+    "title": "Project Lightning Talk  Intern",
+    "author": "Dylan Schiemann",
+    "shortUrl": "https://www.youtube.com/watch?v=cxXfsu-11UE",
+    "duration": "4:53",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/cxXfsu-11UE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLANXw_li7tIxJdmRu8NR2wDQyVG2Q",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "0k45RNz7KEI": {
+    "title": "Lightning Talk: Cooking Open Source without Spilling the Secret Sauce",
+    "author": "Rey Riel, Qlik",
+    "shortUrl": "https://www.youtube.com/watch?v=0k45RNz7KEI",
+    "duration": "6:26",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/0k45RNz7KEI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCAlOjaoyFamhqodQ3NX1yF-T1IQA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "_jW8ogd83C4": {
+    "title": "Chronicles of the Node.js Ecosystem: The Consumer, The Author, and The Maintainer",
+    "author": "Bethany Grig",
+    "shortUrl": "https://www.youtube.com/watch?v=_jW8ogd83C4",
+    "duration": "23:43",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/_jW8ogd83C4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD6M7STekHZVGc31WoA-eGAgoCO0Q",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "eUJn_QhiMOI": {
+    "title": "Maslow's Particle System",
+    "author": "Matt Hayes, Hash",
+    "shortUrl": "https://www.youtube.com/watch?v=eUJn_QhiMOI",
+    "duration": "29:01",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/eUJn_QhiMOI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBBqQSmA9PK9OqcefpbADmX_9aZqQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "ARebYyXKp_A": {
+    "title": "Workshop: Building your First Dojo",
+    "author": "based Web Component",
+    "shortUrl": "https://www.youtube.com/watch?v=ARebYyXKp_A",
+    "duration": "1:32:37",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/ARebYyXKp_A/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBhgo_sckYtS0LzEvBiFrBun4iLKg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "QYEMLAFATUA": {
+    "title": "Project Lightning Talk  Dojo, Dylan Schiemann",
+    "author": "NO AUTHOR NAME",
+    "shortUrl": "https://www.youtube.com/watch?v=QYEMLAFATUA",
+    "duration": "6:52",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/QYEMLAFATUA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA8R5y76VSNq1zyH4QIBwgUAatBtA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "luLNANahmhU": {
+    "title": "The Trials and Tribulaciones of Internationalising your ẨṔṔŁîÇåŤḯṏÑ",
+    "author": "Robin Dykema",
+    "shortUrl": "https://www.youtube.com/watch?v=luLNANahmhU",
+    "duration": "31:05",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/luLNANahmhU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCu1Xi-F7z_FeKsR3Gr2pHb6dcpMA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "I9z7aE7sLns": {
+    "title": "Lightning Talk: Fighting Impostor Syndrome with the Internet of Things",
+    "author": "Tilde Thurium, Twilio",
+    "shortUrl": "https://www.youtube.com/watch?v=I9z7aE7sLns",
+    "duration": "4:54",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/I9z7aE7sLns/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAohbjwccV6Mw9m0mOYsVhgKrqSyA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "kkKcT8XvuQE": {
+    "title": "Capacity Analysis: Mapping How Interventions to the Spread of COVID",
+    "author": "19",
+    "shortUrl": "https://www.youtube.com/watch?v=kkKcT8XvuQE",
+    "duration": "22:19",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/kkKcT8XvuQE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAT4qV6FYvYwxvQvR6kGrwSEJp-Lg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "jed_NKX_qNw": {
+    "title": "Reinventing Dojo as a Progressive, Modern TypeScript Framework",
+    "author": "Dylan Schiemann, Open Web Conf",
+    "shortUrl": "https://www.youtube.com/watch?v=jed_NKX_qNw",
+    "duration": "26:14",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/jed_NKX_qNw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAUg8-RFUY7FEkXtToRq1Ry3WBSuw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "_OHDH2uMyJM": {
+    "title": "MDN Documentation & Frameworks Session",
+    "author": "OpenJS Foundation Collaborator's Summit 2020",
+    "shortUrl": "https://www.youtube.com/watch?v=_OHDH2uMyJM",
+    "duration": "24:30",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/_OHDH2uMyJM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAYQDMCF6hoOLDpe3DqR1STIuZ64w",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "2TjfcWJ7gko": {
+    "title": "OpenJS World 2020 Bronze Sponsor",
+    "author": "WhiteSource",
+    "shortUrl": "https://www.youtube.com/watch?v=2TjfcWJ7gko",
+    "duration": "1:46",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/2TjfcWJ7gko/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDL3waHrPwRkZoGmdqjDj6PNyhxfg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "OIAqY0lCdHA": {
+    "title": "Deliberate, Direct, Positive ACTION!",
+    "author": "Peter Aitken, Global Diversity CFP Day",
+    "shortUrl": "https://www.youtube.com/watch?v=OIAqY0lCdHA",
+    "duration": "34:46",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/OIAqY0lCdHA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD_aBiRabFLev8S6aew8IwBUJnonQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "GvqfpaCxL9o": {
+    "title": "OpenJS World 2020 Bronze Sponsor",
+    "author": "Sentry",
+    "shortUrl": "https://www.youtube.com/watch?v=GvqfpaCxL9o",
+    "duration": "2:00",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/GvqfpaCxL9o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCP6b8MdXGttEY03cw8FRH8Q41S-A",
+      "width": 336,
+      "height": 188
+    }
+  }
+}
