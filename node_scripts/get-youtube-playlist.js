@@ -21,7 +21,9 @@ async function getThatPlayList(meta) {
 
     generateFile(
       `./video_data/${newFilename}.json`,
-      JSON.stringify(cleanTheData(songs, conferenceOwner, conference, year, namingType)),
+      JSON.stringify(
+        cleanTheData(songs, conferenceOwner, conference, year, namingType)
+      ),
       false
     );
     console.log("finished");
@@ -125,7 +127,11 @@ function getPresentationAuthor(theTitle, nameType) {
 
       break;
 
+    case "Presentation":
     default:
+      presentation = theTitle;
+      name = "NO AUTHOR NAME";
+
   }
 
   return {
@@ -144,7 +150,62 @@ console.log("Let's get started");
 //   namingType: 'Presentation | Name',
 // };
 
+function generateListObject(string) {
+  const splitString = string.split("~~~");
+  const conferenceOwner = splitString[0].trim();
+  const conference = splitString[1].trim();
+  const year = splitString[2].trim();
+  const namePattern = splitString[3].trim();
+  const playListId = splitString[4].trim();
+
+  return {
+    playlistId: playListId,
+    conferenceOwner: conferenceOwner,
+    conference: conference,
+    year: year,
+    namingType: namePattern,
+  };
+
+  // this isn't used yet
+// const masterList = [{
+//   playlistId: "PL0TQYXcAtbwSh9ZbY-34J9XK2fVR23aCl",
+//   conferenceOwner: "International JavaScript Conference",
+//   conference: "International JavaScript Conference",
+//   year: 2019,
+//   namingType: 'Presentation | Name',
+// }
+// ]
+
+}
 
 
 
-// getThatPlayList(playlist);
+const theOpenJSList = [
+  // generateListObject("OpenJS~~~OpenJS Foundation Collaborator Summit, Berlin~~~2019~~~Presentation~~~PLyspMSh4XhLMAIqlh3Z5R6frHMDc7t3eG"),
+  generateListObject("OpenJS~~~Node + JS Interactive~~~2019~~~Presentation - Name~~~PLyspMSh4XhLPKZxHu3ZzbUXO4WW-40g17"),
+  // generateListObject("OpenJS~~~OpenJS World~~~2020~~~Presentation - Name~~~PLyspMSh4XhLP-mqulUMcaqTbLo-ZJxSX5"),
+  // generateListObject("OpenJS~~~OpenJS World~~~2021~~~Presentation - Name~~~PLyspMSh4XhLNU9RWjXqdNOp3NXM3NWdF_"),
+];
+
+
+// This is the code that always fire
+const makeExecute = theOpenJSList;
+
+
+async function sleep(millis) {
+  return new Promise(resolve => setTimeout(resolve, millis));
+}
+
+async function executeEvent() {
+
+  for (const event of makeExecute) {
+    console.log(event);
+    console.log("starting sleep");
+    await sleep(3000);
+    getThatPlayList(event);
+    console.log("Got playlist!")
+  }
+}
+
+executeEvent();
+
