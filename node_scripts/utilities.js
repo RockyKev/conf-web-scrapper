@@ -66,12 +66,9 @@ function decompress(fileIn, fileOut) {
   input.pipe(unzip).pipe(output);
 }
 
-
-
-
 module.exports = {
     JsonCircularCB,
     generateFile, 
     getFilesFromPath, 
-    decompress
+    decompress,
 }
