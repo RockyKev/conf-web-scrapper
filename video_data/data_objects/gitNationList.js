@@ -1,7 +1,7 @@
 const { destructureIntoPlaylistObject } = require("../../node_scripts/helpers");
 
 // useless
-// const theGitNationTalksList = [
+// const gitNationTalksList = [
 //   destructureIntoPlaylistObject(
 //     "JavaScript Conferences by GitNation~~~JavaScript Frontend Talks~~~2020~~~Presentation - Name~~~PLfIM4SvaiIyxT5-wqb5o9lucx84mXy0qU"
 //   ),
@@ -19,7 +19,7 @@ const { destructureIntoPlaylistObject } = require("../../node_scripts/helpers");
 //   ),
 // ]
 
-const theGitNationList = [
+const gitNationList = [
     destructureIntoPlaylistObject(
       "JavaScript Conferences by GitNation~~~AmsterdamJS Conference~~~2017~~~Presentation - Name~~~PLfIM4SvaiIyzaLhvwGEa4QzPb9oTD0Ioc"
     ),
@@ -52,6 +52,13 @@ const theGitNationList = [
     ),
   ];
   
+const gitNationList2022_02_23 = [
+  destructureIntoPlaylistObject(
+    "JavaScript Conferences by GitNation~~~AmsterdamJS Meetups~~~2020~~~Presentation - Name~~~PLfIM4SvaiIywPIgS0g4lOvqFcx6ew4FLD"
+  ),
+]
+
 module.exports = {
-  theGitNationList
+  gitNationList,
+  gitNationList2022_02_23
 }
