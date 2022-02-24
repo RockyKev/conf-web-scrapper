@@ -1,6 +1,6 @@
 <template>
   <img class="logo" alt="get money" src="./assets/salary-logo.webp">
-  <HomePage msg="Welcome to the 2B Salary Zone"/>
+  <HomePage msg="All them Conferences"/>
 </template>
 
 <script>

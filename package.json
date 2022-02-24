@@ -16,6 +16,8 @@
     "chart.js": "^3.7.0",
     "core-js": "^3.6.5",
     "vue": "^3.0.0",
+    "vue-good-table": "^2.21.11",
+    "vue-good-table-next": "^0.1.0",
     "ytpl": "^2.2.3"
   },
   "devDependencies": {
