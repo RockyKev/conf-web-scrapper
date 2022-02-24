@@ -1,1 +1,747 @@
-{"conferenceOwner":"OpenJS","conference":"OpenJS World","year":"2021","titleOriginal":"OpenJS World 2021","description":"","yU7GswtyCFE":{"title":"Kubernetes for Everyone","author":"Sendil Kumarn, Uber","shortUrl":"https://www.youtube.com/watch?v=yU7GswtyCFE","duration":"31:35","thumbnail":{"url":"https://i.ytimg.com/vi/yU7GswtyCFE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBaC1u4x9vMaHwkppQRQ31zKiiZRQ","width":336,"height":188}},"v08MVFSP3LI":{"title":"Webpackage is Probably One of the Greatest Opportunities to Make the Web...","author":"Vladimir de Turckheim","shortUrl":"https://www.youtube.com/watch?v=v08MVFSP3LI","duration":"21:29","thumbnail":{"url":"https://i.ytimg.com/vi/v08MVFSP3LI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD9uaWeLHBc7Qvwb0oSUGT4C1CSGg","width":336,"height":188}},"2bdYqCQdvDs":{"title":"secure.AllTheThings()","author":"Make Security Accessible to Everyone!","shortUrl":"https://www.youtube.com/watch?v=2bdYqCQdvDs","duration":"21:56","thumbnail":{"url":"https://i.ytimg.com/vi/2bdYqCQdvDs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCWJBBvnmRlZ33rpsCsRK6Nfqk4EA","width":336,"height":188}},"X-0yb1Nfp_I":{"title":"Package Vulnerability Management & Reporting Collaboration Space for...","author":"Darcy Clarke & Wes Todd","shortUrl":"https://www.youtube.com/watch?v=X-0yb1Nfp_I","duration":"37:23","thumbnail":{"url":"https://i.ytimg.com/vi/X-0yb1Nfp_I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAx0U86eR3yRBeSImqAQD94VbDy-A","width":336,"height":188}},"y5W3Fm9dpZE":{"title":"Safely Handling Dynamic Data with TypeScript","author":"Ethan Arrowood, Microsoft","shortUrl":"https://www.youtube.com/watch?v=y5W3Fm9dpZE","duration":"17:03","thumbnail":{"url":"https://i.ytimg.com/vi/y5W3Fm9dpZE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBBiGjo6UTuj5oyga0QvbUhfOj26g","width":336,"height":188}},"XokTvf9WlXQ":{"title":"Observing Node.js: Using Metrics to Improve your Application Performance","author":"Guilherme Hermeto","shortUrl":"https://www.youtube.com/watch?v=XokTvf9WlXQ","duration":"26:09","thumbnail":{"url":"https://i.ytimg.com/vi/XokTvf9WlXQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCg4gu__YtrjMs_GL2KzImYthDovg","width":336,"height":188}},"pcbhZVUaRJc":{"title":"VS Code Tips and Tricks","author":"Harald Kirschner, Microsoft","shortUrl":"https://www.youtube.com/watch?v=pcbhZVUaRJc","duration":"32:19","thumbnail":{"url":"https://i.ytimg.com/vi/pcbhZVUaRJc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBdRlKZcU1KEd3sqqBLiyMpRqFE8A","width":336,"height":188}},"LBSRW-aFvZU":{"title":"Unlocking High Performing Teams with Open Source","author":"Tracy Miranda, Linux Foundation","shortUrl":"https://www.youtube.com/watch?v=LBSRW-aFvZU","duration":"22:30","thumbnail":{"url":"https://i.ytimg.com/vi/LBSRW-aFvZU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBLy8O0fD_C-wvj_HPFwH28VTfyCA","width":336,"height":188}},"ZdrNw7zxa5Y":{"title":"Testing EcmaScript Modules","author":"David Mark Clements","shortUrl":"https://www.youtube.com/watch?v=ZdrNw7zxa5Y","duration":"53:47","thumbnail":{"url":"https://i.ytimg.com/vi/ZdrNw7zxa5Y/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDHXJriAlpQCDesGrTZA6HkzyZQ1Q","width":336,"height":188}},"G2HUgV30EG4":{"title":"Type","author":"safe GraphQL with TypeScript","shortUrl":"https://www.youtube.com/watch?v=G2HUgV30EG4","duration":"25:19","thumbnail":{"url":"https://i.ytimg.com/vi/G2HUgV30EG4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC851DSsa5Kt0kX30S0EmxHfF4ThA","width":336,"height":188}},"uo4snQYiGbE":{"title":"The Phantom of the App: Background Services","author":"Maxim Salnikov, Microsoft","shortUrl":"https://www.youtube.com/watch?v=uo4snQYiGbE","duration":"29:44","thumbnail":{"url":"https://i.ytimg.com/vi/uo4snQYiGbE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB3HEyCkn1n6XeC9Te05PgokR4t-Q","width":336,"height":188}},"NZ0LUpcWyUw":{"title":"One Source to Rule them All","author":"John Niedzwiecki, Disney Streaming Services","shortUrl":"https://www.youtube.com/watch?v=NZ0LUpcWyUw","duration":"24:30","thumbnail":{"url":"https://i.ytimg.com/vi/NZ0LUpcWyUw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA1XcRSP82Ld_rg-nDlLEe_kOYYQA","width":336,"height":188}},"EnKhXNNwWYI":{"title":"Web Monetization and the Future of Advertising","author":"Briana Marbury, Interledger Foundation","shortUrl":"https://www.youtube.com/watch?v=EnKhXNNwWYI","duration":"11:00","thumbnail":{"url":"https://i.ytimg.com/vi/EnKhXNNwWYI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAzTCVAZbQD3tDCa7sZ6AjGZZ-cdQ","width":336,"height":188}},"LJoIAktp88A":{"title":"Take the Leap into Open Source Projects","author":"Tim Lai, SmartBear Software","shortUrl":"https://www.youtube.com/watch?v=LJoIAktp88A","duration":"22:31","thumbnail":{"url":"https://i.ytimg.com/vi/LJoIAktp88A/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAmbNOpRN12w9rtL0rAlvfy3yipFw","width":336,"height":188}},"Pa5sp5apwqw":{"title":"Responsible Coding for a Better Future","author":"Lucile Jerber & Stephane Rodet, IBM","shortUrl":"https://www.youtube.com/watch?v=Pa5sp5apwqw","duration":"29:22","thumbnail":{"url":"https://i.ytimg.com/vi/Pa5sp5apwqw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAszPFrj3uslZQmeXE8GUpAJU642g","width":336,"height":188}},"MB6tSIhPUaY":{"title":"Node.js Package Maintenance...","author":"Glenn Hinks; Bethany Griggs; Darcy Clark; Dominykas Blyze; Rodion","shortUrl":"https://www.youtube.com/watch?v=MB6tSIhPUaY","duration":"37:04","thumbnail":{"url":"https://i.ytimg.com/vi/MB6tSIhPUaY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAFUlsHXxDwnCc67H3-ppfcDvp4Ug","width":336,"height":188}},"_fb-Ra1KX4g":{"title":"Write Great Code, in the Cloud","author":"Linda Nichols, Microsoft","shortUrl":"https://www.youtube.com/watch?v=_fb-Ra1KX4g","duration":"30:37","thumbnail":{"url":"https://i.ytimg.com/vi/_fb-Ra1KX4g/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCAkFb96x7uBvNu4fbUlRiLPB7AQg","width":336,"height":188}},"wGMK45LLUoA":{"title":"Wrap WebdriverIO to Build your Test Framework","author":"Soumya Mukherjee, APTY.IO","shortUrl":"https://www.youtube.com/watch?v=wGMK45LLUoA","duration":"27:42","thumbnail":{"url":"https://i.ytimg.com/vi/wGMK45LLUoA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCsobGlP-QnmmkyIGqDAelcskT0Tg","width":336,"height":188}},"bJBDsLOpHHs":{"title":"Shifting","author":"left and Right to Test a web app with CI","shortUrl":"https://www.youtube.com/watch?v=bJBDsLOpHHs","duration":"29:07","thumbnail":{"url":"https://i.ytimg.com/vi/bJBDsLOpHHs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBv3dV34tlHgWaBf6DAJmZ4LECDqg","width":336,"height":188}},"h4V1QDpp3_U":{"title":"Keynote Panel: Getting Hired","author":"Scott Hanselman; Jerome Hardaway; Zainab Ebrahim; Saron Yitbarek","shortUrl":"https://www.youtube.com/watch?v=h4V1QDpp3_U","duration":"30:32","thumbnail":{"url":"https://i.ytimg.com/vi/h4V1QDpp3_U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLALyxCIcDFwMBzqnh7m1lnXWtGtUA","width":336,"height":188}},"SpzN47A7gqg":{"title":"Keynote: Glamorous JavaScript: Makeup and Coding Education","author":"Anna Lytical","shortUrl":"https://www.youtube.com/watch?v=SpzN47A7gqg","duration":"14:07","thumbnail":{"url":"https://i.ytimg.com/vi/SpzN47A7gqg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCIdSHwluvmHYXUr9DXyA72aAPXow","width":336,"height":188}},"OInjFvniccU":{"title":"Making Capacitor Flux with NativeScript and an Ionic Friend","author":"Nathan Walker, nStudio LLC","shortUrl":"https://www.youtube.com/watch?v=OInjFvniccU","duration":"22:18","thumbnail":{"url":"https://i.ytimg.com/vi/OInjFvniccU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBF7GoSnZ9kVWq28Q17HNBDGzjBnw","width":336,"height":188}},"0XQF3V7Koks":{"title":"Node.js Diagnostic Best Practices","author":"Gireesh Punathil, IBM India & Mary Marchini, Netflix","shortUrl":"https://www.youtube.com/watch?v=0XQF3V7Koks","duration":"15:31","thumbnail":{"url":"https://i.ytimg.com/vi/0XQF3V7Koks/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCbwNncCpkAtRWZujCXukbkcqGVFQ","width":336,"height":188}},"IB-CNg3b9EM":{"title":"Hit the Ground Running with WebAssembly","author":"Robert Aboukhalil, Invitae","shortUrl":"https://www.youtube.com/watch?v=IB-CNg3b9EM","duration":"20:32","thumbnail":{"url":"https://i.ytimg.com/vi/IB-CNg3b9EM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDKbiDExKwqw4vYIIs3AN9QUK3T5g","width":336,"height":188}},"8AgpgPhNilA":{"title":"Demystifying Database Performance Issues with sqlcommenter","author":"Jan Kleinert & Bala Chandrasekaran","shortUrl":"https://www.youtube.com/watch?v=8AgpgPhNilA","duration":"25:31","thumbnail":{"url":"https://i.ytimg.com/vi/8AgpgPhNilA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBpE8lxUjR24X5b42xFEhAy1cAIVA","width":336,"height":188}},"LflK0oLPnFw":{"title":"JavaScript the Grumpy Parts","author":"Rob Richardson, @rob_rich","shortUrl":"https://www.youtube.com/watch?v=LflK0oLPnFw","duration":"32:43","thumbnail":{"url":"https://i.ytimg.com/vi/LflK0oLPnFw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCRzKFtX8YWryZoaON1cNd62FPAiQ","width":336,"height":188}},"s2GicMw-Y48":{"title":"Can we Double the Node.js HTTP Client Throughput?","author":"Matteo Collina, NearForm","shortUrl":"https://www.youtube.com/watch?v=s2GicMw-Y48","duration":"25:57","thumbnail":{"url":"https://i.ytimg.com/vi/s2GicMw-Y48/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD_kT7jTeKOj13SLhKnnEmsqFX3jw","width":336,"height":188}},"MOvLdfUhqrU":{"title":"A \"fast\" Introduction to Fastify","author":"Matteo Collina, NearForm","shortUrl":"https://www.youtube.com/watch?v=MOvLdfUhqrU","duration":"27:54","thumbnail":{"url":"https://i.ytimg.com/vi/MOvLdfUhqrU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCRSoCFNpe4fRE0hJop4nmfJ6jHww","width":336,"height":188}},"g7k14HuWK8U":{"title":"Notebooks in VS Code","author":"Tanha Kabir, Microsoft","shortUrl":"https://www.youtube.com/watch?v=g7k14HuWK8U","duration":"29:44","thumbnail":{"url":"https://i.ytimg.com/vi/g7k14HuWK8U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCIvJ2G-0k5thAtV8I88cNPn-HmRg","width":336,"height":188}},"J_VwV21EY9w":{"title":"JavaScript Powered Smart Home With (Almost) No Code","author":"Joel Lord, MongoDB","shortUrl":"https://www.youtube.com/watch?v=J_VwV21EY9w","duration":"29:59","thumbnail":{"url":"https://i.ytimg.com/vi/J_VwV21EY9w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDmPZOlOpvI4kzeFYobrz0tVFwEfw","width":336,"height":188}},"M_We5Hyq_To":{"title":"Lightning Talk: Building a Community Inside your Company","author":"Jean Burellier Euler Hermes","shortUrl":"https://www.youtube.com/watch?v=M_We5Hyq_To","duration":"10:31","thumbnail":{"url":"https://i.ytimg.com/vi/M_We5Hyq_To/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDWt1sKbZ1RrSpYS-PFlXxBBWroSg","width":336,"height":188}},"1G-jEAf7dX4":{"title":"Lightning Talk: Node","author":"RED installer, Standalone Installer using Electron","shortUrl":"https://www.youtube.com/watch?v=1G-jEAf7dX4","duration":"9:28","thumbnail":{"url":"https://i.ytimg.com/vi/1G-jEAf7dX4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDGbhVl0nEa4rqKU8Q2anz5CVmhnw","width":336,"height":188}},"LBkUUZeIJ6Q":{"title":"Lightning Talk: Event Based Communication in Complex Micro","author":"service...","shortUrl":"https://www.youtube.com/watch?v=LBkUUZeIJ6Q","duration":"11:22","thumbnail":{"url":"https://i.ytimg.com/vi/LBkUUZeIJ6Q/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBZgMDRjA42WTA95x4Qps-TL726Jw","width":336,"height":188}},"c_jemhuFeJc":{"title":"Node.js Deep Debugging","author":"Gireesh Punathil, IBM India","shortUrl":"https://www.youtube.com/watch?v=c_jemhuFeJc","duration":"30:05","thumbnail":{"url":"https://i.ytimg.com/vi/c_jemhuFeJc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDLb7XddSSPqjyejf1EWEmb8vlt7w","width":336,"height":188}},"p64MP70TlWE":{"title":"(Ͼ˳Ͽ)...Check","author":"my","shortUrl":"https://www.youtube.com/watch?v=p64MP70TlWE","duration":"26:13","thumbnail":{"url":"https://i.ytimg.com/vi/p64MP70TlWE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBP7qduAKmoOe59Ewo7GLlCODfN1g","width":336,"height":188}},"S-mpnP_WZPY":{"title":"Automation as a Core IT Principle","author":"Jean Burellier, Euler Hermes (Allianz Group)","shortUrl":"https://www.youtube.com/watch?v=S-mpnP_WZPY","duration":"20:42","thumbnail":{"url":"https://i.ytimg.com/vi/S-mpnP_WZPY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC8T7Wi5PE5KRqrO7dA-8rBfv2fEA","width":336,"height":188}},"6EDaayYnw6M":{"title":"Aligning Node.js with the Web Platform","author":"James M Snell, NearForm","shortUrl":"https://www.youtube.com/watch?v=6EDaayYnw6M","duration":"31:52","thumbnail":{"url":"https://i.ytimg.com/vi/6EDaayYnw6M/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0K7VVs4imZw15TsLBwfGIVyfloQ","width":336,"height":188}},"y1D8UD5TX_I":{"title":"Integrating Containers in JavaScript","author":"Lucas Santos, Microsoft","shortUrl":"https://www.youtube.com/watch?v=y1D8UD5TX_I","duration":"32:15","thumbnail":{"url":"https://i.ytimg.com/vi/y1D8UD5TX_I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAw2cas84AVU-3LZFcTe7Xc_ygIUA","width":336,"height":188}},"xdylpZ3jOGs":{"title":"Building Strongly Typed REST Clients with Typescript","author":"Jose Manuel Heredia Hidalgo, Microsoft","shortUrl":"https://www.youtube.com/watch?v=xdylpZ3jOGs","duration":"26:28","thumbnail":{"url":"https://i.ytimg.com/vi/xdylpZ3jOGs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBvFh_TEP0U_rK7B3yu1z-5IsW6aw","width":336,"height":188}},"j7INmkG0SYc":{"title":"Developer Workflow Automation with GitHub Actions (CI/CD)","author":"Brian Douglas, GitHub","shortUrl":"https://www.youtube.com/watch?v=j7INmkG0SYc","duration":"17:34","thumbnail":{"url":"https://i.ytimg.com/vi/j7INmkG0SYc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAFDXl0O8TfdC5XOl8GDYrhTiuG9w","width":336,"height":188}},"T3ygHsTJICM":{"title":"JavaScript Mode and the MySQL Shell","author":"David Stokes, Oracle","shortUrl":"https://www.youtube.com/watch?v=T3ygHsTJICM","duration":"28:17","thumbnail":{"url":"https://i.ytimg.com/vi/T3ygHsTJICM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCaCX12hG8VuoP_0taGEVQTBeCWHg","width":336,"height":188}},"3NyDb-u1nz4":{"title":"Internet of Things (IoT) with Node: Both Practical and Fun!","author":"Jesse Gorzinski, IBM & Michael Dawson","shortUrl":"https://www.youtube.com/watch?v=3NyDb-u1nz4","duration":"30:11","thumbnail":{"url":"https://i.ytimg.com/vi/3NyDb-u1nz4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA-D_A4rul3-O7anWr8PB2L_KqHbQ","width":336,"height":188}},"KSemWQtGGb8":{"title":"Keynote: Breaking Transmission Chains with JavaScript","author":"Cian Ó Maidín, President & Founder, Nearform","shortUrl":"https://www.youtube.com/watch?v=KSemWQtGGb8","duration":"19:27","thumbnail":{"url":"https://i.ytimg.com/vi/KSemWQtGGb8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCuk8oxbM7NMGYI1CPrO2UO3motLg","width":336,"height":188}},"qDA58l3BfgQ":{"title":"Keynote: Open Open Source and Making Great Places for Col... Joe Sepi, Michael Dawson, & Beth Griggs","author":"NO AUTHOR NAME","shortUrl":"https://www.youtube.com/watch?v=qDA58l3BfgQ","duration":"20:14","thumbnail":{"url":"https://i.ytimg.com/vi/qDA58l3BfgQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBQ9BOISjD9YFwgV_B8xQTlWYvVGg","width":336,"height":188}},"heEIZcUeRwU":{"title":"Keynote: Restoring Balance in Technology: Lessons from the Indie Rock DIY Movement","author":"Jenny Toomey","shortUrl":"https://www.youtube.com/watch?v=heEIZcUeRwU","duration":"35:31","thumbnail":{"url":"https://i.ytimg.com/vi/heEIZcUeRwU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAlGq-8d-Lg2fOKwC5zHHKr_Q1H1g","width":336,"height":188}},"6jjBe2ZiVKU":{"title":"Keynote: Game Design Thinking + Social Justice","author":"Ashlyn Sparrow, Assistant Director, Weston Game Lab","shortUrl":"https://www.youtube.com/watch?v=6jjBe2ZiVKU","duration":"21:24","thumbnail":{"url":"https://i.ytimg.com/vi/6jjBe2ZiVKU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDcPn1AgTnk4r9t8nN_ZDELrkjiIw","width":336,"height":188}},"l8HJX177uhI":{"title":"Lightning Talk: What’s Coming with Appium 2.0?","author":"Jonathan Lipps, HeadSpin, Appium Project Lead","shortUrl":"https://www.youtube.com/watch?v=l8HJX177uhI","duration":"4:17","thumbnail":{"url":"https://i.ytimg.com/vi/l8HJX177uhI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDGWDMLQzd--KKX7NgeK4NB4XXA9w","width":336,"height":188}},"86zerP8DMHE":{"title":"A Robust, Modular UI Automation Framework with WebdriverIO","author":"Olga Smolyar, InterSystems","shortUrl":"https://www.youtube.com/watch?v=86zerP8DMHE","duration":"25:45","thumbnail":{"url":"https://i.ytimg.com/vi/86zerP8DMHE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCDjXv0Iuhjs_bT-kKWBgp2u1594Q","width":336,"height":188}},"X89gW0_Gu9M":{"title":"Fighting Covid with Serverless and JavaScript","author":"David Gonzalez, NearForm","shortUrl":"https://www.youtube.com/watch?v=X89gW0_Gu9M","duration":"35:07","thumbnail":{"url":"https://i.ytimg.com/vi/X89gW0_Gu9M/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCovxr0oG6dVmkacxAmFxYCpSGacg","width":336,"height":188}},"4cCSPw-I0GE":{"title":"Building Modern Native Add","author":"ons for Node.js in 2021","shortUrl":"https://www.youtube.com/watch?v=4cCSPw-I0GE","duration":"30:43","thumbnail":{"url":"https://i.ytimg.com/vi/4cCSPw-I0GE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAZKHYlp3tn6ho0DtEZOFqkQb7Zmg","width":336,"height":188}},"WlBRq5aak_o":{"title":"Upgrading to Fastify 3","author":"Austin Akers, Microsoft","shortUrl":"https://www.youtube.com/watch?v=WlBRq5aak_o","duration":"22:53","thumbnail":{"url":"https://i.ytimg.com/vi/WlBRq5aak_o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCijfhCUWdlaeAS5ExBAv5rZuki3w","width":336,"height":188}},"oY-3hxgqWBk":{"title":"Cloud Native Landscape for Node.js Developers","author":"Upkar Lidder, IBM","shortUrl":"https://www.youtube.com/watch?v=oY-3hxgqWBk","duration":"26:39","thumbnail":{"url":"https://i.ytimg.com/vi/oY-3hxgqWBk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAuZOZJSXGZXaYheZ8OqS944DdTow","width":336,"height":188}},"OzU3rh0ROt8":{"title":"Master Production","author":"grade Best Practices to Build your Node.js Docker Images","shortUrl":"https://www.youtube.com/watch?v=OzU3rh0ROt8","duration":"30:55","thumbnail":{"url":"https://i.ytimg.com/vi/OzU3rh0ROt8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCQ_PrnwwA9gMvYFtFCioSWC3-Gag","width":336,"height":188}},"MvAU752MqW4":{"title":"Keynote: Making JavaScript on WebAssembly Fast","author":"Lin Clark, Sr Principal Software Engineer, Fastly","shortUrl":"https://www.youtube.com/watch?v=MvAU752MqW4","duration":"19:02","thumbnail":{"url":"https://i.ytimg.com/vi/MvAU752MqW4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCV82DCpaUUkZ2mEQgPvx6ZWzh2SA","width":336,"height":188}},"ehbvMjTJB2U":{"title":"Keynote: Building Great Web Experiences with AMP and TensorFlow.js","author":"Jeffrey Jose & Sandeep Gupta","shortUrl":"https://www.youtube.com/watch?v=ehbvMjTJB2U","duration":"19:33","thumbnail":{"url":"https://i.ytimg.com/vi/ehbvMjTJB2U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAnWS8h0UtWxQl-TX0oaFkQ2R7vIw","width":336,"height":188}},"iM1LiceeyHk":{"title":"Application Modernization with Camel JavaScript and OpenShift","author":"Ip Sam & Wuxin Zeng, Red Hat","shortUrl":"https://www.youtube.com/watch?v=iM1LiceeyHk","duration":"29:53","thumbnail":{"url":"https://i.ytimg.com/vi/iM1LiceeyHk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB4R4-UQRGGVwAETatdmrMgxucJQA","width":336,"height":188}},"n6-fEh5sB_g":{"title":"Crafting Bespoke PWA Experiences with Angular","author":"Mark Thompson, Google","shortUrl":"https://www.youtube.com/watch?v=n6-fEh5sB_g","duration":"16:38","thumbnail":{"url":"https://i.ytimg.com/vi/n6-fEh5sB_g/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBb_JiRjETLzUOFbYOl06WbG8eH0A","width":336,"height":188}},"6XK2SGBneeM":{"title":"Node.js: The New and the Experimental","author":"Bethany Griggs, Red Hat","shortUrl":"https://www.youtube.com/watch?v=6XK2SGBneeM","duration":"28:47","thumbnail":{"url":"https://i.ytimg.com/vi/6XK2SGBneeM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB1BmrmQxt4Ld42yvQVqlyhnPvEQw","width":336,"height":188}},"HA3IPHKL_kw":{"title":"Facilitating and Demonstrating your Growth as a Node.js Developer","author":"David Mark Clements","shortUrl":"https://www.youtube.com/watch?v=HA3IPHKL_kw","duration":"22:45","thumbnail":{"url":"https://i.ytimg.com/vi/HA3IPHKL_kw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCk_j-UTxmO8GW4rgQtRQV1zWPjBQ","width":336,"height":188}},"Xhx3OoaWIaw":{"title":"Lightning Talk: Node","author":"RED Update","shortUrl":"https://www.youtube.com/watch?v=Xhx3OoaWIaw","duration":"8:21","thumbnail":{"url":"https://i.ytimg.com/vi/Xhx3OoaWIaw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDDDkhwf6kSjqOQmu2e0injlSak0w","width":336,"height":188}},"9CNVfD5jXsk":{"title":"Shiver My Timbers! Migrating yargs to ECMAScript Modules","author":"Benjamin Coe, Google","shortUrl":"https://www.youtube.com/watch?v=9CNVfD5jXsk","duration":"24:40","thumbnail":{"url":"https://i.ytimg.com/vi/9CNVfD5jXsk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBLOFJCSFss36uI-FeVSyu-5ce_gA","width":336,"height":188}},"fjkEx29NSEA":{"title":"ML at Client Side","author":"Muthukumarswamy B, Enquero","shortUrl":"https://www.youtube.com/watch?v=fjkEx29NSEA","duration":"18:56","thumbnail":{"url":"https://i.ytimg.com/vi/fjkEx29NSEA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAV2fQyzuLJm_oNtb2YqFpBWVrSJw","width":336,"height":188}},"ZmZTTSFsieA":{"title":"Keynote: Michael Jennings, Inclusion Strategy Partner, Product at Netflix","author":"NO AUTHOR NAME","shortUrl":"https://www.youtube.com/watch?v=ZmZTTSFsieA","duration":"11:03","thumbnail":{"url":"https://i.ytimg.com/vi/ZmZTTSFsieA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC9EGU5GY29WV_PNWNWSZIoEYFoTQ","width":336,"height":188}},"p9kjdFHpn1g":{"title":"Keynote: How Open Governance Influences Open Source & Inner Sou... Charlie Robbins & Jonathan Keslin","author":"NO AUTHOR NAME","shortUrl":"https://www.youtube.com/watch?v=p9kjdFHpn1g","duration":"8:44","thumbnail":{"url":"https://i.ytimg.com/vi/p9kjdFHpn1g/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDCZNzVckCIJJmvxKLSVu9RUXZtPg","width":336,"height":188}},"-E8AuLJfVQE":{"title":"What is Open Source?","author":"Tobie Langel, UnlockOpen","shortUrl":"https://www.youtube.com/watch?v=-E8AuLJfVQE","duration":"29:43","thumbnail":{"url":"https://i.ytimg.com/vi/-E8AuLJfVQE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCvWtu0-Gb1RayCsJIahfMmAJPwvQ","width":336,"height":188}},"lrJsGAmHl20":{"title":"Take a Trip through JSLandia","author":"Joe Sepi, IBM & Jory Burson, Linux Foundation","shortUrl":"https://www.youtube.com/watch?v=lrJsGAmHl20","duration":"25:40","thumbnail":{"url":"https://i.ytimg.com/vi/lrJsGAmHl20/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBy856XSTl0jIF-tjE8MHmRvb1C-g","width":336,"height":188}},"7YK91D349Nc":{"title":"Welcome Keynote: the Roaring Twenties for JavaScript","author":"Robin Bender Ginn & Todd Moore","shortUrl":"https://www.youtube.com/watch?v=7YK91D349Nc","duration":"18:35","thumbnail":{"url":"https://i.ytimg.com/vi/7YK91D349Nc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDRnFPQqoIFGSbU8Dc8fqjObWjuZg","width":336,"height":188}}}
+{
+  "conferenceOwner": "OpenJS",
+  "conference": "OpenJS World",
+  "year": "2021",
+  "titleOriginal": "OpenJS World 2021",
+  "description": "",
+    "modified": true,
+  "modifiedDate": "2022-02-23",
+
+  "yU7GswtyCFE": {
+    "title": "Kubernetes for Everyone",
+    "author": "Sendil Kumarn, Uber",
+    "shortUrl": "https://www.youtube.com/watch?v=yU7GswtyCFE",
+    "duration": "31:35",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/yU7GswtyCFE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBaC1u4x9vMaHwkppQRQ31zKiiZRQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "v08MVFSP3LI": {
+    "title": "Webpackage is Probably One of the Greatest Opportunities to Make the Web...",
+    "author": "Vladimir de Turckheim",
+    "shortUrl": "https://www.youtube.com/watch?v=v08MVFSP3LI",
+    "duration": "21:29",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/v08MVFSP3LI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD9uaWeLHBc7Qvwb0oSUGT4C1CSGg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "2bdYqCQdvDs": {
+    "title": "secure.AllTheThings() - Make Security Accessible to Everyone!",
+    "author": "Christian Bromann & Justin Dolly",
+    "shortUrl": "https://www.youtube.com/watch?v=2bdYqCQdvDs",
+    "duration": "21:56",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/2bdYqCQdvDs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCWJBBvnmRlZ33rpsCsRK6Nfqk4EA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "X-0yb1Nfp_I": {
+    "title": "Package Vulnerability Management & Reporting Collaboration Space for...",
+    "author": "Darcy Clarke & Wes Todd",
+    "shortUrl": "https://www.youtube.com/watch?v=X-0yb1Nfp_I",
+    "duration": "37:23",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/X-0yb1Nfp_I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAx0U86eR3yRBeSImqAQD94VbDy-A",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "y5W3Fm9dpZE": {
+    "title": "Safely Handling Dynamic Data with TypeScript",
+    "author": "Ethan Arrowood, Microsoft",
+    "shortUrl": "https://www.youtube.com/watch?v=y5W3Fm9dpZE",
+    "duration": "17:03",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/y5W3Fm9dpZE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBBiGjo6UTuj5oyga0QvbUhfOj26g",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "XokTvf9WlXQ": {
+    "title": "Observing Node.js: Using Metrics to Improve your Application Performance",
+    "author": "Guilherme Hermeto",
+    "shortUrl": "https://www.youtube.com/watch?v=XokTvf9WlXQ",
+    "duration": "26:09",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/XokTvf9WlXQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCg4gu__YtrjMs_GL2KzImYthDovg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "pcbhZVUaRJc": {
+    "title": "VS Code Tips and Tricks",
+    "author": "Harald Kirschner, Microsoft",
+    "shortUrl": "https://www.youtube.com/watch?v=pcbhZVUaRJc",
+    "duration": "32:19",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/pcbhZVUaRJc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBdRlKZcU1KEd3sqqBLiyMpRqFE8A",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "LBSRW-aFvZU": {
+    "title": "Unlocking High Performing Teams with Open Source",
+    "author": "Tracy Miranda, Linux Foundation",
+    "shortUrl": "https://www.youtube.com/watch?v=LBSRW-aFvZU",
+    "duration": "22:30",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/LBSRW-aFvZU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBLy8O0fD_C-wvj_HPFwH28VTfyCA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "ZdrNw7zxa5Y": {
+    "title": "Testing EcmaScript Modules",
+    "author": "David Mark Clements",
+    "shortUrl": "https://www.youtube.com/watch?v=ZdrNw7zxa5Y",
+    "duration": "53:47",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/ZdrNw7zxa5Y/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDHXJriAlpQCDesGrTZA6HkzyZQ1Q",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "G2HUgV30EG4": {
+    "title": "Type-safe GraphQL with TypeScript",
+    "author": "Aaron Powell, Microsoft",
+    "shortUrl": "https://www.youtube.com/watch?v=G2HUgV30EG4",
+    "duration": "25:19",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/G2HUgV30EG4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC851DSsa5Kt0kX30S0EmxHfF4ThA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "uo4snQYiGbE": {
+    "title": "The Phantom of the App: Background Services",
+    "author": "Maxim Salnikov, Microsoft",
+    "shortUrl": "https://www.youtube.com/watch?v=uo4snQYiGbE",
+    "duration": "29:44",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/uo4snQYiGbE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB3HEyCkn1n6XeC9Te05PgokR4t-Q",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "NZ0LUpcWyUw": {
+    "title": "One Source to Rule them All",
+    "author": "John Niedzwiecki, Disney Streaming Services",
+    "shortUrl": "https://www.youtube.com/watch?v=NZ0LUpcWyUw",
+    "duration": "24:30",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/NZ0LUpcWyUw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA1XcRSP82Ld_rg-nDlLEe_kOYYQA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "EnKhXNNwWYI": {
+    "title": "Web Monetization and the Future of Advertising",
+    "author": "Briana Marbury, Interledger Foundation",
+    "shortUrl": "https://www.youtube.com/watch?v=EnKhXNNwWYI",
+    "duration": "11:00",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/EnKhXNNwWYI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAzTCVAZbQD3tDCa7sZ6AjGZZ-cdQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "LJoIAktp88A": {
+    "title": "Take the Leap into Open Source Projects",
+    "author": "Tim Lai, SmartBear Software",
+    "shortUrl": "https://www.youtube.com/watch?v=LJoIAktp88A",
+    "duration": "22:31",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/LJoIAktp88A/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAmbNOpRN12w9rtL0rAlvfy3yipFw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "Pa5sp5apwqw": {
+    "title": "Responsible Coding for a Better Future",
+    "author": "Lucile Jerber & Stephane Rodet, IBM",
+    "shortUrl": "https://www.youtube.com/watch?v=Pa5sp5apwqw",
+    "duration": "29:22",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/Pa5sp5apwqw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAszPFrj3uslZQmeXE8GUpAJU642g",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "MB6tSIhPUaY": {
+    "title": "Node.js Package Maintenance...",
+    "author": "Glenn Hinks; Bethany Griggs; Darcy Clark; Dominykas Blyze; Rodion",
+    "shortUrl": "https://www.youtube.com/watch?v=MB6tSIhPUaY",
+    "duration": "37:04",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/MB6tSIhPUaY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAFUlsHXxDwnCc67H3-ppfcDvp4Ug",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "_fb-Ra1KX4g": {
+    "title": "Write Great Code, in the Cloud",
+    "author": "Linda Nichols, Microsoft",
+    "shortUrl": "https://www.youtube.com/watch?v=_fb-Ra1KX4g",
+    "duration": "30:37",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/_fb-Ra1KX4g/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCAkFb96x7uBvNu4fbUlRiLPB7AQg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "wGMK45LLUoA": {
+    "title": "Wrap WebdriverIO to Build your Test Framework",
+    "author": "Soumya Mukherjee, APTY.IO",
+    "shortUrl": "https://www.youtube.com/watch?v=wGMK45LLUoA",
+    "duration": "27:42",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/wGMK45LLUoA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCsobGlP-QnmmkyIGqDAelcskT0Tg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "bJBDsLOpHHs": {
+    "title": "Shifting-left and Right to Test a web app with CI",
+    "author": "Nikolay Advolodkin, Sauce Labs",
+    "shortUrl": "https://www.youtube.com/watch?v=bJBDsLOpHHs",
+    "duration": "29:07",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/bJBDsLOpHHs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBv3dV34tlHgWaBf6DAJmZ4LECDqg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "h4V1QDpp3_U": {
+    "title": "Keynote Panel: Getting Hired",
+    "author": "Scott Hanselman; Jerome Hardaway; Zainab Ebrahim; Saron Yitbarek",
+    "shortUrl": "https://www.youtube.com/watch?v=h4V1QDpp3_U",
+    "duration": "30:32",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/h4V1QDpp3_U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLALyxCIcDFwMBzqnh7m1lnXWtGtUA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "SpzN47A7gqg": {
+    "title": "Keynote: Glamorous JavaScript: Makeup and Coding Education",
+    "author": "Anna Lytical",
+    "shortUrl": "https://www.youtube.com/watch?v=SpzN47A7gqg",
+    "duration": "14:07",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/SpzN47A7gqg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCIdSHwluvmHYXUr9DXyA72aAPXow",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "OInjFvniccU": {
+    "title": "Making Capacitor Flux with NativeScript and an Ionic Friend",
+    "author": "Nathan Walker, nStudio LLC",
+    "shortUrl": "https://www.youtube.com/watch?v=OInjFvniccU",
+    "duration": "22:18",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/OInjFvniccU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBF7GoSnZ9kVWq28Q17HNBDGzjBnw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "0XQF3V7Koks": {
+    "title": "Node.js Diagnostic Best Practices",
+    "author": "Gireesh Punathil, IBM India & Mary Marchini, Netflix",
+    "shortUrl": "https://www.youtube.com/watch?v=0XQF3V7Koks",
+    "duration": "15:31",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/0XQF3V7Koks/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCbwNncCpkAtRWZujCXukbkcqGVFQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "IB-CNg3b9EM": {
+    "title": "Hit the Ground Running with WebAssembly",
+    "author": "Robert Aboukhalil, Invitae",
+    "shortUrl": "https://www.youtube.com/watch?v=IB-CNg3b9EM",
+    "duration": "20:32",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/IB-CNg3b9EM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDKbiDExKwqw4vYIIs3AN9QUK3T5g",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "8AgpgPhNilA": {
+    "title": "Demystifying Database Performance Issues with sqlcommenter",
+    "author": "Jan Kleinert & Bala Chandrasekaran",
+    "shortUrl": "https://www.youtube.com/watch?v=8AgpgPhNilA",
+    "duration": "25:31",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/8AgpgPhNilA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBpE8lxUjR24X5b42xFEhAy1cAIVA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "LflK0oLPnFw": {
+    "title": "JavaScript the Grumpy Parts",
+    "author": "Rob Richardson, @rob_rich",
+    "shortUrl": "https://www.youtube.com/watch?v=LflK0oLPnFw",
+    "duration": "32:43",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/LflK0oLPnFw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCRzKFtX8YWryZoaON1cNd62FPAiQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "s2GicMw-Y48": {
+    "title": "Can we Double the Node.js HTTP Client Throughput?",
+    "author": "Matteo Collina, NearForm",
+    "shortUrl": "https://www.youtube.com/watch?v=s2GicMw-Y48",
+    "duration": "25:57",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/s2GicMw-Y48/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD_kT7jTeKOj13SLhKnnEmsqFX3jw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "MOvLdfUhqrU": {
+    "title": "A \"fast\" Introduction to Fastify",
+    "author": "Matteo Collina, NearForm",
+    "shortUrl": "https://www.youtube.com/watch?v=MOvLdfUhqrU",
+    "duration": "27:54",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/MOvLdfUhqrU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCRSoCFNpe4fRE0hJop4nmfJ6jHww",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "g7k14HuWK8U": {
+    "title": "Notebooks in VS Code",
+    "author": "Tanha Kabir, Microsoft",
+    "shortUrl": "https://www.youtube.com/watch?v=g7k14HuWK8U",
+    "duration": "29:44",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/g7k14HuWK8U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCIvJ2G-0k5thAtV8I88cNPn-HmRg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "J_VwV21EY9w": {
+    "title": "JavaScript Powered Smart Home With (Almost) No Code",
+    "author": "Joel Lord, MongoDB",
+    "shortUrl": "https://www.youtube.com/watch?v=J_VwV21EY9w",
+    "duration": "29:59",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/J_VwV21EY9w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDmPZOlOpvI4kzeFYobrz0tVFwEfw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "M_We5Hyq_To": {
+    "title": "Lightning Talk: Building a Community Inside your Company",
+    "author": "Jean Burellier Euler Hermes",
+    "shortUrl": "https://www.youtube.com/watch?v=M_We5Hyq_To",
+    "duration": "10:31",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/M_We5Hyq_To/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDWt1sKbZ1RrSpYS-PFlXxBBWroSg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "1G-jEAf7dX4": {
+    "title": "Lightning Talk: Node-RED installer, Standalone Installer using Electron",
+    "author": "Kazuhito Yokoi, Hitachi",
+    "shortUrl": "https://www.youtube.com/watch?v=1G-jEAf7dX4",
+    "duration": "9:28",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/1G-jEAf7dX4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDGbhVl0nEa4rqKU8Q2anz5CVmhnw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "LBkUUZeIJ6Q": {
+    "title": "Lightning Talk: Event Based Communication in Complex Micro-service Architecture",
+    "author": "Sapna Upreti & Prabal Raghav",
+    "shortUrl": "https://www.youtube.com/watch?v=LBkUUZeIJ6Q",
+    "duration": "11:22",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/LBkUUZeIJ6Q/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBZgMDRjA42WTA95x4Qps-TL726Jw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "c_jemhuFeJc": {
+    "title": "Node.js Deep Debugging",
+    "author": "Gireesh Punathil, IBM India",
+    "shortUrl": "https://www.youtube.com/watch?v=c_jemhuFeJc",
+    "duration": "30:05",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/c_jemhuFeJc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDLb7XddSSPqjyejf1EWEmb8vlt7w",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "p64MP70TlWE": {
+    "title": "(Ͼ˳Ͽ)...Check-my-repo!!!",
+    "author": "Paloma Oliveira, Sauce Labs",
+    "shortUrl": "https://www.youtube.com/watch?v=p64MP70TlWE",
+    "duration": "26:13",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/p64MP70TlWE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBP7qduAKmoOe59Ewo7GLlCODfN1g",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "S-mpnP_WZPY": {
+    "title": "Automation as a Core IT Principle",
+    "author": "Jean Burellier, Euler Hermes (Allianz Group)",
+    "shortUrl": "https://www.youtube.com/watch?v=S-mpnP_WZPY",
+    "duration": "20:42",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/S-mpnP_WZPY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC8T7Wi5PE5KRqrO7dA-8rBfv2fEA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "6EDaayYnw6M": {
+    "title": "Aligning Node.js with the Web Platform",
+    "author": "James M Snell, NearForm",
+    "shortUrl": "https://www.youtube.com/watch?v=6EDaayYnw6M",
+    "duration": "31:52",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/6EDaayYnw6M/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0K7VVs4imZw15TsLBwfGIVyfloQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "y1D8UD5TX_I": {
+    "title": "Integrating Containers in JavaScript",
+    "author": "Lucas Santos, Microsoft",
+    "shortUrl": "https://www.youtube.com/watch?v=y1D8UD5TX_I",
+    "duration": "32:15",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/y1D8UD5TX_I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAw2cas84AVU-3LZFcTe7Xc_ygIUA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "xdylpZ3jOGs": {
+    "title": "Building Strongly Typed REST Clients with Typescript",
+    "author": "Jose Manuel Heredia Hidalgo, Microsoft",
+    "shortUrl": "https://www.youtube.com/watch?v=xdylpZ3jOGs",
+    "duration": "26:28",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/xdylpZ3jOGs/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBvFh_TEP0U_rK7B3yu1z-5IsW6aw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "j7INmkG0SYc": {
+    "title": "Developer Workflow Automation with GitHub Actions (CI/CD)",
+    "author": "Brian Douglas, GitHub",
+    "shortUrl": "https://www.youtube.com/watch?v=j7INmkG0SYc",
+    "duration": "17:34",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/j7INmkG0SYc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAFDXl0O8TfdC5XOl8GDYrhTiuG9w",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "T3ygHsTJICM": {
+    "title": "JavaScript Mode and the MySQL Shell",
+    "author": "David Stokes, Oracle",
+    "shortUrl": "https://www.youtube.com/watch?v=T3ygHsTJICM",
+    "duration": "28:17",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/T3ygHsTJICM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCaCX12hG8VuoP_0taGEVQTBeCWHg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "3NyDb-u1nz4": {
+    "title": "Internet of Things (IoT) with Node: Both Practical and Fun!",
+    "author": "Jesse Gorzinski, IBM & Michael Dawson",
+    "shortUrl": "https://www.youtube.com/watch?v=3NyDb-u1nz4",
+    "duration": "30:11",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/3NyDb-u1nz4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA-D_A4rul3-O7anWr8PB2L_KqHbQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "KSemWQtGGb8": {
+    "title": "Keynote: Breaking Transmission Chains with JavaScript",
+    "author": "Cian Ó Maidín, President & Founder, Nearform",
+    "shortUrl": "https://www.youtube.com/watch?v=KSemWQtGGb8",
+    "duration": "19:27",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/KSemWQtGGb8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCuk8oxbM7NMGYI1CPrO2UO3motLg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "qDA58l3BfgQ": {
+    "title": "Keynote: Open Open Source and Making Great Places for Collaboration",
+    "author": "Joe Sepi, Michael Dawson, & Beth Griggs",
+    "shortUrl": "https://www.youtube.com/watch?v=qDA58l3BfgQ",
+    "duration": "20:14",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/qDA58l3BfgQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBQ9BOISjD9YFwgV_B8xQTlWYvVGg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "heEIZcUeRwU": {
+    "title": "Keynote: Restoring Balance in Technology: Lessons from the Indie Rock DIY Movement",
+    "author": "Jenny Toomey",
+    "shortUrl": "https://www.youtube.com/watch?v=heEIZcUeRwU",
+    "duration": "35:31",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/heEIZcUeRwU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAlGq-8d-Lg2fOKwC5zHHKr_Q1H1g",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "6jjBe2ZiVKU": {
+    "title": "Keynote: Game Design Thinking + Social Justice",
+    "author": "Ashlyn Sparrow, Assistant Director, Weston Game Lab",
+    "shortUrl": "https://www.youtube.com/watch?v=6jjBe2ZiVKU",
+    "duration": "21:24",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/6jjBe2ZiVKU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDcPn1AgTnk4r9t8nN_ZDELrkjiIw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "l8HJX177uhI": {
+    "title": "Lightning Talk: What’s Coming with Appium 2.0?",
+    "author": "Jonathan Lipps, HeadSpin, Appium Project Lead",
+    "shortUrl": "https://www.youtube.com/watch?v=l8HJX177uhI",
+    "duration": "4:17",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/l8HJX177uhI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDGWDMLQzd--KKX7NgeK4NB4XXA9w",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "86zerP8DMHE": {
+    "title": "A Robust, Modular UI Automation Framework with WebdriverIO",
+    "author": "Olga Smolyar, InterSystems",
+    "shortUrl": "https://www.youtube.com/watch?v=86zerP8DMHE",
+    "duration": "25:45",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/86zerP8DMHE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCDjXv0Iuhjs_bT-kKWBgp2u1594Q",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "X89gW0_Gu9M": {
+    "title": "Fighting Covid with Serverless and JavaScript",
+    "author": "David Gonzalez, NearForm",
+    "shortUrl": "https://www.youtube.com/watch?v=X89gW0_Gu9M",
+    "duration": "35:07",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/X89gW0_Gu9M/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCovxr0oG6dVmkacxAmFxYCpSGacg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "4cCSPw-I0GE": {
+    "title": "Building Modern Native Add-ons for Node.js in 2021",
+    "author": "Kevin Eady, Hive Streaming & Gabriel Schulhof",
+    "shortUrl": "https://www.youtube.com/watch?v=4cCSPw-I0GE",
+    "duration": "30:43",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/4cCSPw-I0GE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAZKHYlp3tn6ho0DtEZOFqkQb7Zmg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "WlBRq5aak_o": {
+    "title": "Upgrading to Fastify 3",
+    "author": "Austin Akers, Microsoft",
+    "shortUrl": "https://www.youtube.com/watch?v=WlBRq5aak_o",
+    "duration": "22:53",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/WlBRq5aak_o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCijfhCUWdlaeAS5ExBAv5rZuki3w",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "oY-3hxgqWBk": {
+    "title": "Cloud Native Landscape for Node.js Developers",
+    "author": "Upkar Lidder, IBM",
+    "shortUrl": "https://www.youtube.com/watch?v=oY-3hxgqWBk",
+    "duration": "26:39",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/oY-3hxgqWBk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAuZOZJSXGZXaYheZ8OqS944DdTow",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "OzU3rh0ROt8": {
+    "title": "Master Production-grade Best Practices to Build your Node.js Docker Images",
+    "author": "Liran Tal, Snyk",
+    "shortUrl": "https://www.youtube.com/watch?v=OzU3rh0ROt8",
+    "duration": "30:55",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/OzU3rh0ROt8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCQ_PrnwwA9gMvYFtFCioSWC3-Gag",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "MvAU752MqW4": {
+    "title": "Keynote: Making JavaScript on WebAssembly Fast",
+    "author": "Lin Clark, Sr Principal Software Engineer, Fastly",
+    "shortUrl": "https://www.youtube.com/watch?v=MvAU752MqW4",
+    "duration": "19:02",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/MvAU752MqW4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCV82DCpaUUkZ2mEQgPvx6ZWzh2SA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "ehbvMjTJB2U": {
+    "title": "Keynote: Building Great Web Experiences with AMP and TensorFlow.js",
+    "author": "Jeffrey Jose & Sandeep Gupta",
+    "shortUrl": "https://www.youtube.com/watch?v=ehbvMjTJB2U",
+    "duration": "19:33",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/ehbvMjTJB2U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAnWS8h0UtWxQl-TX0oaFkQ2R7vIw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "iM1LiceeyHk": {
+    "title": "Application Modernization with Camel JavaScript and OpenShift",
+    "author": "Ip Sam & Wuxin Zeng, Red Hat",
+    "shortUrl": "https://www.youtube.com/watch?v=iM1LiceeyHk",
+    "duration": "29:53",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/iM1LiceeyHk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB4R4-UQRGGVwAETatdmrMgxucJQA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "n6-fEh5sB_g": {
+    "title": "Crafting Bespoke PWA Experiences with Angular",
+    "author": "Mark Thompson, Google",
+    "shortUrl": "https://www.youtube.com/watch?v=n6-fEh5sB_g",
+    "duration": "16:38",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/n6-fEh5sB_g/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBb_JiRjETLzUOFbYOl06WbG8eH0A",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "6XK2SGBneeM": {
+    "title": "Node.js: The New and the Experimental",
+    "author": "Bethany Griggs, Red Hat",
+    "shortUrl": "https://www.youtube.com/watch?v=6XK2SGBneeM",
+    "duration": "28:47",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/6XK2SGBneeM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB1BmrmQxt4Ld42yvQVqlyhnPvEQw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "HA3IPHKL_kw": {
+    "title": "Facilitating and Demonstrating your Growth as a Node.js Developer",
+    "author": "David Mark Clements",
+    "shortUrl": "https://www.youtube.com/watch?v=HA3IPHKL_kw",
+    "duration": "22:45",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/HA3IPHKL_kw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCk_j-UTxmO8GW4rgQtRQV1zWPjBQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "Xhx3OoaWIaw": {
+    "title": "Lightning Talk: Node-RED Update",
+    "author": "Nick O'Leary, Node-RED Project Lead",
+    "shortUrl": "https://www.youtube.com/watch?v=Xhx3OoaWIaw",
+    "duration": "8:21",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/Xhx3OoaWIaw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDDDkhwf6kSjqOQmu2e0injlSak0w",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "9CNVfD5jXsk": {
+    "title": "Shiver My Timbers! Migrating yargs to ECMAScript Modules",
+    "author": "Benjamin Coe, Google",
+    "shortUrl": "https://www.youtube.com/watch?v=9CNVfD5jXsk",
+    "duration": "24:40",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/9CNVfD5jXsk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBLOFJCSFss36uI-FeVSyu-5ce_gA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "fjkEx29NSEA": {
+    "title": "ML at Client Side",
+    "author": "Muthukumarswamy B, Enquero",
+    "shortUrl": "https://www.youtube.com/watch?v=fjkEx29NSEA",
+    "duration": "18:56",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/fjkEx29NSEA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAV2fQyzuLJm_oNtb2YqFpBWVrSJw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "ZmZTTSFsieA": {
+    "title": "Keynote: Michael Jennings, Inclusion Strategy Partner, Product at Netflix",
+    "author": "Michael Jennings",
+    "shortUrl": "https://www.youtube.com/watch?v=ZmZTTSFsieA",
+    "duration": "11:03",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/ZmZTTSFsieA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC9EGU5GY29WV_PNWNWSZIoEYFoTQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "p9kjdFHpn1g": {
+    "title": "Keynote: How Open Governance Influences Open Source & Inner Source at GoDaddy",
+    "author": "Charlie Robbins & Jonathan Keslin",
+    "shortUrl": "https://www.youtube.com/watch?v=p9kjdFHpn1g",
+    "duration": "8:44",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/p9kjdFHpn1g/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDCZNzVckCIJJmvxKLSVu9RUXZtPg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "-E8AuLJfVQE": {
+    "title": "What is Open Source?",
+    "author": "Tobie Langel, UnlockOpen",
+    "shortUrl": "https://www.youtube.com/watch?v=-E8AuLJfVQE",
+    "duration": "29:43",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/-E8AuLJfVQE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCvWtu0-Gb1RayCsJIahfMmAJPwvQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "lrJsGAmHl20": {
+    "title": "Take a Trip through JSLandia",
+    "author": "Joe Sepi, IBM & Jory Burson, Linux Foundation",
+    "shortUrl": "https://www.youtube.com/watch?v=lrJsGAmHl20",
+    "duration": "25:40",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/lrJsGAmHl20/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBy856XSTl0jIF-tjE8MHmRvb1C-g",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "7YK91D349Nc": {
+    "title": "Welcome Keynote: the Roaring Twenties for JavaScript",
+    "author": "Robin Bender Ginn & Todd Moore",
+    "shortUrl": "https://www.youtube.com/watch?v=7YK91D349Nc",
+    "duration": "18:35",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/7YK91D349Nc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDRnFPQqoIFGSbU8Dc8fqjObWjuZg",
+      "width": 336,
+      "height": 188
+    }
+  }
+}

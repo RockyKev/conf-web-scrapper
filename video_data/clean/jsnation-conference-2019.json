@@ -1,1 +1,307 @@
-{"conferenceOwner":"JavaScript Conferences by GitNation","conference":"JSNation Conference","year":"2019","titleOriginal":"JSNation Conference 2019","description":"","ZrKjgSfpppM":{"title":"Keep Betting on JavaScript","author":"Kyle Simpson","shortUrl":"https://www.youtube.com/watch?v=ZrKjgSfpppM","duration":"42:03","thumbnail":{"url":"https://i.ytimg.com/vi/ZrKjgSfpppM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCKgh7GYE1WWAM6ragmP78TsbcSPA","width":336,"height":188}},"1KQngEZ8qH4":{"title":"Securing the DOM from the Bottom Up","author":"Krzysztof Kotowicz","shortUrl":"https://www.youtube.com/watch?v=1KQngEZ8qH4","duration":"31:29","thumbnail":{"url":"https://i.ytimg.com/vi/1KQngEZ8qH4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCPhQIlswiZY-OQ4CPM4lkbPnM8zQ","width":336,"height":188}},"OYUdlXY1joQ":{"title":"Testing Tools and Their Friends","author":"Gleb Bahmutov","shortUrl":"https://www.youtube.com/watch?v=OYUdlXY1joQ","duration":"30:13","thumbnail":{"url":"https://i.ytimg.com/vi/OYUdlXY1joQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAGaJAMxBtnTFT0q6l4GdnmPLG3pA","width":336,"height":188}},"p-MhcctQBlY":{"title":"Webpack 5","author":"Why Breaking Changes? What is next?","shortUrl":"https://www.youtube.com/watch?v=p-MhcctQBlY","duration":"29:27","thumbnail":{"url":"https://i.ytimg.com/vi/p-MhcctQBlY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA2KV-G641Cuc6J-IMFfAgvlAWufg","width":336,"height":188}},"5R3l2r1XxKI":{"title":"Functional lenses for contemporary frameworks","author":"Andre Staltz","shortUrl":"https://www.youtube.com/watch?v=5R3l2r1XxKI","duration":"30:23","thumbnail":{"url":"https://i.ytimg.com/vi/5R3l2r1XxKI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCqqJ-GewlOBfJf0vIWSZdp7q1cDQ","width":336,"height":188}},"fpQRi5ZIq1Q":{"title":"Open Source: Charity or Business?","author":"Henry Zhu","shortUrl":"https://www.youtube.com/watch?v=fpQRi5ZIq1Q","duration":"31:11","thumbnail":{"url":"https://i.ytimg.com/vi/fpQRi5ZIq1Q/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAwPTKUbWYX1Hm9O4YLvF9Vb-Ol_Q","width":336,"height":188}},"4vl2y24IzPw":{"title":"The search for App","author":"iness","shortUrl":"https://www.youtube.com/watch?v=4vl2y24IzPw","duration":"10:19","thumbnail":{"url":"https://i.ytimg.com/vi/4vl2y24IzPw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCtqec6JYUogDTQGv4FyCln0Mk87Q","width":336,"height":188}},"JXctIexfAvM":{"title":"A11Y and React","author":"Lightning talks","shortUrl":"https://www.youtube.com/watch?v=JXctIexfAvM","duration":"8:12","thumbnail":{"url":"https://i.ytimg.com/vi/JXctIexfAvM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBRjgUl9paf4p3Ikgr7yzyVEeDmbw","width":336,"height":188}},"gfyKbE5ILCU":{"title":"An Introduction to Static Web Apps with JAMStack","author":"Lightning talks","shortUrl":"https://www.youtube.com/watch?v=gfyKbE5ILCU","duration":"9:51","thumbnail":{"url":"https://i.ytimg.com/vi/gfyKbE5ILCU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBMav1eAZnr2hVYQtKK2zncadsT4g","width":336,"height":188}},"7IJqO4Kkm7c":{"title":"Stop the Software Apocalypse with Functional Programming","author":"Lightning talks","shortUrl":"https://www.youtube.com/watch?v=7IJqO4Kkm7c","duration":"9:15","thumbnail":{"url":"https://i.ytimg.com/vi/7IJqO4Kkm7c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB5TPiAsPpd6MESMpVtj2XeluaNAA","width":336,"height":188}},"gL8LD67xKNk":{"title":"Building Fast Angular Applications from End","author":"Minko Gechev","shortUrl":"https://www.youtube.com/watch?v=gL8LD67xKNk","duration":"21:34","thumbnail":{"url":"https://i.ytimg.com/vi/gL8LD67xKNk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCI5OwtVbBWnNme8g0OzaBApAdGxg","width":336,"height":188}},"4Nb9Gwp2L24":{"title":"Immer, Immutability and the Wonderful World of Proxies","author":"Michel Weststrate","shortUrl":"https://www.youtube.com/watch?v=4Nb9Gwp2L24","duration":"30:40","thumbnail":{"url":"https://i.ytimg.com/vi/4Nb9Gwp2L24/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDIBEkFZK7A11pBwNTLYnvO2MGzKw","width":336,"height":188}},"98Psw5-Qkrc":{"title":"Turbo charging 2D on the web","author":"Mat Groves","shortUrl":"https://www.youtube.com/watch?v=98Psw5-Qkrc","duration":"28:24","thumbnail":{"url":"https://i.ytimg.com/vi/98Psw5-Qkrc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAMapAW9OPUYsSxlGycdWTNsU9P5Q","width":336,"height":188}},"Al7zlLdd_es":{"title":"Automated Performance Testing With WebDriver","author":"Christian Bromann","shortUrl":"https://www.youtube.com/watch?v=Al7zlLdd_es","duration":"31:09","thumbnail":{"url":"https://i.ytimg.com/vi/Al7zlLdd_es/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBMnwxcv24pE7JE3aMumDw0_w_gzA","width":336,"height":188}},"l9DGNQN4uqU":{"title":"Using WebGL and PWA to build an adaptive game for touch, mouse and VR devices","author":"David Rousset","shortUrl":"https://www.youtube.com/watch?v=l9DGNQN4uqU","duration":"31:55","thumbnail":{"url":"https://i.ytimg.com/vi/l9DGNQN4uqU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAHPWtngjLbqfDqioe8wI9As8Akww","width":336,"height":188}},"dyaux-pqq7o":{"title":"Post mortem NodeJS debugging – Thomas Watson","author":"NO AUTHOR NAME","shortUrl":"https://www.youtube.com/watch?v=dyaux-pqq7o","duration":"27:56","thumbnail":{"url":"https://i.ytimg.com/vi/dyaux-pqq7o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCnirp7jbOvgx1mZUrw466VwTcq6w","width":336,"height":188}},"hNaNjBBAdBo":{"title":"Error handling: doing it right! – Ruben Bridgewater","author":"NO AUTHOR NAME","shortUrl":"https://www.youtube.com/watch?v=hNaNjBBAdBo","duration":"28:15","thumbnail":{"url":"https://i.ytimg.com/vi/hNaNjBBAdBo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAhXg5towtMrpGTrta_J-_XWzF9Ng","width":336,"height":188}},"00AgiZDxg-0":{"title":"Controlling a swarm of drones with NodeJS – Jasper Schulte","author":"NO AUTHOR NAME","shortUrl":"https://www.youtube.com/watch?v=00AgiZDxg-0","duration":"26:59","thumbnail":{"url":"https://i.ytimg.com/vi/00AgiZDxg-0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDr3gRNRXSOKm1Rd7g7Q8PLWMtC1A","width":336,"height":188}},"r8DbY3FCRww":{"title":"Ready, Steady, Crash! – Katie Koschland","author":"NO AUTHOR NAME","shortUrl":"https://www.youtube.com/watch?v=r8DbY3FCRww","duration":"25:12","thumbnail":{"url":"https://i.ytimg.com/vi/r8DbY3FCRww/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDzNIgi4HKRidMGRwxahxSEW4zTjA","width":336,"height":188}},"7sdVXMTFVbE":{"title":"Reinventing RxJS – Max Gallo","author":"NO AUTHOR NAME","shortUrl":"https://www.youtube.com/watch?v=7sdVXMTFVbE","duration":"24:40","thumbnail":{"url":"https://i.ytimg.com/vi/7sdVXMTFVbE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBGk2-FZ_KteWHPrj8oyJHL5nVKYg","width":336,"height":188}},"JUJ85k3aEg4":{"title":"10 things I learned making the fastest JS server runtime in the world – Paulo Lopes","author":"NO AUTHOR NAME","shortUrl":"https://www.youtube.com/watch?v=JUJ85k3aEg4","duration":"23:42","thumbnail":{"url":"https://i.ytimg.com/vi/JUJ85k3aEg4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAPUZ1z7fBk7vNJnNd6QssJSqd4SQ","width":336,"height":188}},"fM9qwbofop0":{"title":"RabbitMQ and PM2 in Node.js for managing Multiple Processes – Waleed Ashraf","author":"NO AUTHOR NAME","shortUrl":"https://www.youtube.com/watch?v=fM9qwbofop0","duration":"19:37","thumbnail":{"url":"https://i.ytimg.com/vi/fM9qwbofop0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAcVNENx1nBY0quDsSDlPfLtR3sRQ","width":336,"height":188}},"eVGdV53q68I":{"title":"The working Architecture of Node.js Applications – Viktor Turskyi","author":"NO AUTHOR NAME","shortUrl":"https://www.youtube.com/watch?v=eVGdV53q68I","duration":"29:40","thumbnail":{"url":"https://i.ytimg.com/vi/eVGdV53q68I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCxioHAAuL2yBtt-sduA1p_AU7u-Q","width":336,"height":188}},"1QueApYNfPI":{"title":"Building Zero","author":"Knowledge Backends – Matthias Dugue","shortUrl":"https://www.youtube.com/watch?v=1QueApYNfPI","duration":"26:32","thumbnail":{"url":"https://i.ytimg.com/vi/1QueApYNfPI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDsPE6R9r3ZUyoVGygOmgaaw5mmvQ","width":336,"height":188}},"cvtt8TexqbU":{"title":"Analysis of an exploited npm package – Jarrod Overson","author":"NO AUTHOR NAME","shortUrl":"https://www.youtube.com/watch?v=cvtt8TexqbU","duration":"24:50","thumbnail":{"url":"https://i.ytimg.com/vi/cvtt8TexqbU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB6seJqz7b3pSwih2TDy6_31kKRGw","width":336,"height":188}},"S41Qfbzqu28":{"title":"What's your backend written with? JavaScript?! – Christina Zenzens and Anna Backs","author":"NO AUTHOR NAME","shortUrl":"https://www.youtube.com/watch?v=S41Qfbzqu28","duration":"25:50","thumbnail":{"url":"https://i.ytimg.com/vi/S41Qfbzqu28/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB44tN_W1oz6vSAH_4P8km7BiVtBg","width":336,"height":188}},"RUWawfKVomw":{"title":"SSR with Quasar Framework – Razvan Stoenescu","author":"NO AUTHOR NAME","shortUrl":"https://www.youtube.com/watch?v=RUWawfKVomw","duration":"25:53","thumbnail":{"url":"https://i.ytimg.com/vi/RUWawfKVomw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDnsYjGMJY3cx7NgVB92Z_ug4W8VA","width":336,"height":188}},"gfbWjD4SwmU":{"title":"JSNation 2019 Aftermovie","author":"NO AUTHOR NAME","shortUrl":"https://www.youtube.com/watch?v=gfbWjD4SwmU","duration":"2:29","thumbnail":{"url":"https://i.ytimg.com/vi/gfbWjD4SwmU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBYl4U6wXvV9FPjFi1PyBi7nz3sTw","width":336,"height":188}}}
+{
+  "conferenceOwner": "JavaScript Conferences by GitNation",
+  "conference": "JSNation Conference",
+  "year": "2019",
+  "titleOriginal": "JSNation Conference 2019",
+  "description": "",
+    "modified": true,
+  "modifiedDate": "2022-02-23",
+
+  "ZrKjgSfpppM": {
+    "title": "Keep Betting on JavaScript",
+    "author": "Kyle Simpson",
+    "shortUrl": "https://www.youtube.com/watch?v=ZrKjgSfpppM",
+    "duration": "42:03",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/ZrKjgSfpppM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCKgh7GYE1WWAM6ragmP78TsbcSPA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "1KQngEZ8qH4": {
+    "title": "Securing the DOM from the Bottom Up",
+    "author": "Krzysztof Kotowicz",
+    "shortUrl": "https://www.youtube.com/watch?v=1KQngEZ8qH4",
+    "duration": "31:29",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/1KQngEZ8qH4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCPhQIlswiZY-OQ4CPM4lkbPnM8zQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "OYUdlXY1joQ": {
+    "title": "Testing Tools and Their Friends",
+    "author": "Gleb Bahmutov",
+    "shortUrl": "https://www.youtube.com/watch?v=OYUdlXY1joQ",
+    "duration": "30:13",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/OYUdlXY1joQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAGaJAMxBtnTFT0q6l4GdnmPLG3pA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "p-MhcctQBlY": {
+    "title": "Webpack 5 - Why Breaking Changes? What is next?",
+    "author": "Tobias Koppers",
+    "shortUrl": "https://www.youtube.com/watch?v=p-MhcctQBlY",
+    "duration": "29:27",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/p-MhcctQBlY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA2KV-G641Cuc6J-IMFfAgvlAWufg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "5R3l2r1XxKI": {
+    "title": "Functional lenses for contemporary frameworks",
+    "author": "Andre Staltz",
+    "shortUrl": "https://www.youtube.com/watch?v=5R3l2r1XxKI",
+    "duration": "30:23",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/5R3l2r1XxKI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCqqJ-GewlOBfJf0vIWSZdp7q1cDQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "fpQRi5ZIq1Q": {
+    "title": "Open Source: Charity or Business?",
+    "author": "Henry Zhu",
+    "shortUrl": "https://www.youtube.com/watch?v=fpQRi5ZIq1Q",
+    "duration": "31:11",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/fpQRi5ZIq1Q/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAwPTKUbWYX1Hm9O4YLvF9Vb-Ol_Q",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "4vl2y24IzPw": {
+    "title": "The search for App-iness",
+    "author": "Jamie Maria Schouren",
+    "shortUrl": "https://www.youtube.com/watch?v=4vl2y24IzPw",
+    "duration": "10:19",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/4vl2y24IzPw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCtqec6JYUogDTQGv4FyCln0Mk87Q",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "JXctIexfAvM": {
+    "title": "A11Y and React",
+    "author": "Nicholas Pringle",
+    "shortUrl": "https://www.youtube.com/watch?v=JXctIexfAvM",
+    "duration": "8:12",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/JXctIexfAvM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBRjgUl9paf4p3Ikgr7yzyVEeDmbw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "gfyKbE5ILCU": {
+    "title": "An Introduction to Static Web Apps with JAMStack",
+    "author": "Christina H Yu",
+    "shortUrl": "https://www.youtube.com/watch?v=gfyKbE5ILCU",
+    "duration": "9:51",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/gfyKbE5ILCU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBMav1eAZnr2hVYQtKK2zncadsT4g",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "7IJqO4Kkm7c": {
+    "title": "Stop the Software Apocalypse with Functional Programming",
+    "author": "Fernanda Andrade",
+    "shortUrl": "https://www.youtube.com/watch?v=7IJqO4Kkm7c",
+    "duration": "9:15",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/7IJqO4Kkm7c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB5TPiAsPpd6MESMpVtj2XeluaNAA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "gL8LD67xKNk": {
+    "title": "Building Fast Angular Applications from End",
+    "author": "Minko Gechev",
+    "shortUrl": "https://www.youtube.com/watch?v=gL8LD67xKNk",
+    "duration": "21:34",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/gL8LD67xKNk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCI5OwtVbBWnNme8g0OzaBApAdGxg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "4Nb9Gwp2L24": {
+    "title": "Immer, Immutability and the Wonderful World of Proxies",
+    "author": "Michel Weststrate",
+    "shortUrl": "https://www.youtube.com/watch?v=4Nb9Gwp2L24",
+    "duration": "30:40",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/4Nb9Gwp2L24/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDIBEkFZK7A11pBwNTLYnvO2MGzKw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "98Psw5-Qkrc": {
+    "title": "Turbo charging 2D on the web",
+    "author": "Mat Groves",
+    "shortUrl": "https://www.youtube.com/watch?v=98Psw5-Qkrc",
+    "duration": "28:24",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/98Psw5-Qkrc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAMapAW9OPUYsSxlGycdWTNsU9P5Q",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "Al7zlLdd_es": {
+    "title": "Automated Performance Testing With WebDriver",
+    "author": "Christian Bromann",
+    "shortUrl": "https://www.youtube.com/watch?v=Al7zlLdd_es",
+    "duration": "31:09",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/Al7zlLdd_es/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBMnwxcv24pE7JE3aMumDw0_w_gzA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "l9DGNQN4uqU": {
+    "title": "Using WebGL and PWA to build an adaptive game for touch, mouse and VR devices",
+    "author": "David Rousset",
+    "shortUrl": "https://www.youtube.com/watch?v=l9DGNQN4uqU",
+    "duration": "31:55",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/l9DGNQN4uqU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAHPWtngjLbqfDqioe8wI9As8Akww",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "dyaux-pqq7o": {
+    "title": "Post mortem NodeJS debugging",
+    "author": "Thomas Watson",
+    "shortUrl": "https://www.youtube.com/watch?v=dyaux-pqq7o",
+    "duration": "27:56",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/dyaux-pqq7o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCnirp7jbOvgx1mZUrw466VwTcq6w",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "hNaNjBBAdBo": {
+    "title": "Error handling: doing it right!",
+    "author": "Ruben Bridgewater",
+    "shortUrl": "https://www.youtube.com/watch?v=hNaNjBBAdBo",
+    "duration": "28:15",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/hNaNjBBAdBo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAhXg5towtMrpGTrta_J-_XWzF9Ng",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "00AgiZDxg-0": {
+    "title": "Controlling a swarm of drones with NodeJS",
+    "author": "Jasper Schulte",
+    "shortUrl": "https://www.youtube.com/watch?v=00AgiZDxg-0",
+    "duration": "26:59",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/00AgiZDxg-0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDr3gRNRXSOKm1Rd7g7Q8PLWMtC1A",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "r8DbY3FCRww": {
+    "title": "Ready, Steady, Crash!",
+    "author": "Katie Koschland",
+    "shortUrl": "https://www.youtube.com/watch?v=r8DbY3FCRww",
+    "duration": "25:12",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/r8DbY3FCRww/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDzNIgi4HKRidMGRwxahxSEW4zTjA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "7sdVXMTFVbE": {
+    "title": "Reinventing RxJS",
+    "author": "Max Gallo",
+    "shortUrl": "https://www.youtube.com/watch?v=7sdVXMTFVbE",
+    "duration": "24:40",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/7sdVXMTFVbE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBGk2-FZ_KteWHPrj8oyJHL5nVKYg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "JUJ85k3aEg4": {
+    "title": "10 things I learned making the fastest JS server runtime in the world",
+    "author": "Paulo Lopes",
+    "shortUrl": "https://www.youtube.com/watch?v=JUJ85k3aEg4",
+    "duration": "23:42",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/JUJ85k3aEg4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAPUZ1z7fBk7vNJnNd6QssJSqd4SQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "fM9qwbofop0": {
+    "title": "RabbitMQ and PM2 in Node.js for managing Multiple Processes",
+    "author": "Waleed Ashraf",
+    "shortUrl": "https://www.youtube.com/watch?v=fM9qwbofop0",
+    "duration": "19:37",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/fM9qwbofop0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAcVNENx1nBY0quDsSDlPfLtR3sRQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "eVGdV53q68I": {
+    "title": "The working Architecture of Node.js Applications",
+    "author": "Viktor Turskyi",
+    "shortUrl": "https://www.youtube.com/watch?v=eVGdV53q68I",
+    "duration": "29:40",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/eVGdV53q68I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCxioHAAuL2yBtt-sduA1p_AU7u-Q",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "1QueApYNfPI": {
+    "title": "Building Zero-Knowledge Backends",
+    "author": "Matthias Dugue",
+    "shortUrl": "https://www.youtube.com/watch?v=1QueApYNfPI",
+    "duration": "26:32",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/1QueApYNfPI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDsPE6R9r3ZUyoVGygOmgaaw5mmvQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "cvtt8TexqbU": {
+    "title": "Analysis of an exploited npm package",
+    "author": "Jarrod Overson",
+    "shortUrl": "https://www.youtube.com/watch?v=cvtt8TexqbU",
+    "duration": "24:50",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/cvtt8TexqbU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB6seJqz7b3pSwih2TDy6_31kKRGw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "S41Qfbzqu28": {
+    "title": "What's your backend written with? JavaScript?!",
+    "author": "Christina Zenzens and Anna Backs",
+    "shortUrl": "https://www.youtube.com/watch?v=S41Qfbzqu28",
+    "duration": "25:50",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/S41Qfbzqu28/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB44tN_W1oz6vSAH_4P8km7BiVtBg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "RUWawfKVomw": {
+    "title": "SSR with Quasar Framework",
+    "author": "Razvan Stoenescu",
+    "shortUrl": "https://www.youtube.com/watch?v=RUWawfKVomw",
+    "duration": "25:53",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/RUWawfKVomw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDnsYjGMJY3cx7NgVB92Z_ug4W8VA",
+      "width": 336,
+      "height": 188
+    }
+  }
+}

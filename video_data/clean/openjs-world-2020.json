@@ -4,6 +4,9 @@
   "year": "2020",
   "titleOriginal": "OpenJS World 2020",
   "description": "Keynotes and sessions from OpenJSWorld 2020. OpenJS World is the OpenJS Foundation's global conference.",
+  "modified": true,
+  "modifiedDate": "2022-02-23",
+
   "doug6st5vAs": {
     "title": "Deno, a Secure Runtime for JavaScript and TypeScript",
     "author": "Ryan Dahl, Deno Land",
@@ -60,8 +63,8 @@
     }
   },
   "mOjfdFALAec": {
-    "title": "From Streaming to Studio",
-    "author": "",
+    "title": "From Streaming to Studio--The Evolution of Node.js at Netflix",
+    "author": "Guilherme Hermeto, Netflix",
     "shortUrl": "https://www.youtube.com/watch?v=mOjfdFALAec",
     "duration": "19:18",
     "thumbnail": {
@@ -215,7 +218,7 @@
   },
   "QaA5C1Y4BH0": {
     "title": "Contributing to WebdriverIO Session at OpenJS Foundation Collaborator's Summit 2020",
-    "author": "NO AUTHOR NAME",
+    "author": "Adam Bjerstedt, Christian Bromann, Erwin Heitzman, Kevin Lamping, Mykola Grybyk, Will Brock",
     "shortUrl": "https://www.youtube.com/watch?v=QaA5C1Y4BH0",
     "duration": "1:51:28",
     "thumbnail": {
@@ -302,8 +305,8 @@
     }
   },
   "JhQ-PuwoWAE": {
-    "title": "Workshop: Dead",
-    "author": "Simple Testing with Mocha",
+    "title": "Workshop: Dead-Simple Testing with Mocha",
+    "author": "Christopher Hiller",
     "shortUrl": "https://www.youtube.com/watch?v=JhQ-PuwoWAE",
     "duration": "1:42:55",
     "thumbnail": {
@@ -389,17 +392,6 @@
       "height": 188
     }
   },
-  "bpvp_bYnY2Q": {
-    "title": "The Web Platform Podcast, Evolution of Modern JavaScript w/ Jordan Harband LIVE @ OpenJS World 2020",
-    "author": "NO AUTHOR NAME",
-    "shortUrl": "https://www.youtube.com/watch?v=bpvp_bYnY2Q",
-    "duration": "40:13",
-    "thumbnail": {
-      "url": "https://i.ytimg.com/vi/bpvp_bYnY2Q/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCSCnyk70dCOvCZ1Z3otTDy2ccGjQ",
-      "width": 336,
-      "height": 188
-    }
-  },
   "9Joy4w5mS-k": {
     "title": "Keynote: Production Loading Performance 10 Years Later",
     "author": "Nicole Sullivan and Shubhie Panicker,  Google",
@@ -412,8 +404,8 @@
     }
   },
   "ZBuidvXnTKY": {
-    "title": "Lightning Talk: Holy WebSocket Revival: Serverless Sockets for Real Time Communication, Paul Chin",
-    "author": "NO AUTHOR NAME",
+    "title": "Holy WebSocket Revival: Serverless Sockets for Real Time Communication",
+    "author": "Paul Chin",
     "shortUrl": "https://www.youtube.com/watch?v=ZBuidvXnTKY",
     "duration": "5:05",
     "thumbnail": {
@@ -587,17 +579,6 @@
       "height": 188
     }
   },
-  "HqIstZSsCTA": {
-    "title": "WebdriverIO Contributor's Meeting at OpenJS Foundation Collaborator's Summit 2020",
-    "author": "NO AUTHOR NAME",
-    "shortUrl": "https://www.youtube.com/watch?v=HqIstZSsCTA",
-    "duration": "1:03:10",
-    "thumbnail": {
-      "url": "https://i.ytimg.com/vi/HqIstZSsCTA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCrUY_-EIQasDA7MW9rjeLTYZGvtQ",
-      "width": 336,
-      "height": 188
-    }
-  },
   "JuKIUYi8-Ec": {
     "title": "Lightning Talk: Everything you Didn't Want to Know about Source Maps",
     "author": "Benjamin Coe, Google",
@@ -698,8 +679,8 @@
     }
   },
   "ARebYyXKp_A": {
-    "title": "Workshop: Building your First Dojo",
-    "author": "based Web Component",
+    "title": "Workshop: Building your First Dojo-based Web Component",
+    "author": "Anthony Gubler & Matt Gadd",
     "shortUrl": "https://www.youtube.com/watch?v=ARebYyXKp_A",
     "duration": "1:32:37",
     "thumbnail": {
@@ -709,8 +690,8 @@
     }
   },
   "QYEMLAFATUA": {
-    "title": "Project Lightning Talk  Dojo, Dylan Schiemann",
-    "author": "NO AUTHOR NAME",
+    "title": "Dojo, A Progressive, Modern TypeScript-first Framework",
+    "author": "Dylan Schiemann",
     "shortUrl": "https://www.youtube.com/watch?v=QYEMLAFATUA",
     "duration": "6:52",
     "thumbnail": {
@@ -731,7 +712,7 @@
     }
   },
   "I9z7aE7sLns": {
-    "title": "Lightning Talk: Fighting Impostor Syndrome with the Internet of Things",
+    "title": "Fighting Impostor Syndrome with the Internet of Things",
     "author": "Tilde Thurium, Twilio",
     "shortUrl": "https://www.youtube.com/watch?v=I9z7aE7sLns",
     "duration": "4:54",
@@ -742,8 +723,8 @@
     }
   },
   "kkKcT8XvuQE": {
-    "title": "Capacity Analysis: Mapping How Interventions to the Spread of COVID",
-    "author": "19",
+    "title": "Capacity Analysis: Mapping How Interventions to the Spread of COVID-19",
+    "author": "Kristian Ekenes, Esri",
     "shortUrl": "https://www.youtube.com/watch?v=kkKcT8XvuQE",
     "duration": "22:19",
     "thumbnail": {
@@ -763,28 +744,6 @@
       "height": 188
     }
   },
-  "_OHDH2uMyJM": {
-    "title": "MDN Documentation & Frameworks Session",
-    "author": "OpenJS Foundation Collaborator's Summit 2020",
-    "shortUrl": "https://www.youtube.com/watch?v=_OHDH2uMyJM",
-    "duration": "24:30",
-    "thumbnail": {
-      "url": "https://i.ytimg.com/vi/_OHDH2uMyJM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAYQDMCF6hoOLDpe3DqR1STIuZ64w",
-      "width": 336,
-      "height": 188
-    }
-  },
-  "2TjfcWJ7gko": {
-    "title": "OpenJS World 2020 Bronze Sponsor",
-    "author": "WhiteSource",
-    "shortUrl": "https://www.youtube.com/watch?v=2TjfcWJ7gko",
-    "duration": "1:46",
-    "thumbnail": {
-      "url": "https://i.ytimg.com/vi/2TjfcWJ7gko/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDL3waHrPwRkZoGmdqjDj6PNyhxfg",
-      "width": 336,
-      "height": 188
-    }
-  },
   "OIAqY0lCdHA": {
     "title": "Deliberate, Direct, Positive ACTION!",
     "author": "Peter Aitken, Global Diversity CFP Day",
@@ -792,17 +751,6 @@
     "duration": "34:46",
     "thumbnail": {
       "url": "https://i.ytimg.com/vi/OIAqY0lCdHA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD_aBiRabFLev8S6aew8IwBUJnonQ",
-      "width": 336,
-      "height": 188
-    }
-  },
-  "GvqfpaCxL9o": {
-    "title": "OpenJS World 2020 Bronze Sponsor",
-    "author": "Sentry",
-    "shortUrl": "https://www.youtube.com/watch?v=GvqfpaCxL9o",
-    "duration": "2:00",
-    "thumbnail": {
-      "url": "https://i.ytimg.com/vi/GvqfpaCxL9o/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCP6b8MdXGttEY03cw8FRH8Q41S-A",
       "width": 336,
       "height": 188
     }
