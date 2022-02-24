@@ -1,5 +1,5 @@
 <template>
-  <img class="logo" alt="get money" src="./assets/salary-logo.webp">
+  <img class="logo" alt="get money" src="./assets/presentation.jpg">
   <HomePage msg="All them Conferences"/>
 </template>
 

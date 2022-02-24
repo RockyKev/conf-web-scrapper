@@ -22,15 +22,15 @@ export default {
       isReady: false,
       columns: [
         {
-          label: "conferenceOrganizer",
+          label: "Org",
           field: "conferenceOrganizer",
         },
         {
-          label: "conferenceName",
+          label: "conference",
           field: "conferenceName",
         },
         {
-          label: "conferenceYear",
+          label: "Year",
           field: "conferenceYear",
           type: "number",
         },
@@ -62,7 +62,6 @@ export default {
     fetchData() {
       if (!this.isReady) {
         axios.get(`${this.baseUrl}/data.json`).then((response) => {
-          //   this.jsonData = response.data;
           this.createRowData(response.data);
           this.isReady = true;
         });
@@ -80,15 +79,17 @@ export default {
         for (const event in mainEvent) {
           const presentation = mainEvent[event];
 
-          eventData.push({
-            conferenceOrganizer: mainEvent.conferenceOwner,
-            conferenceName: mainEvent.conference,
-            conferenceYear: mainEvent.year,
-            presentationTitle: presentation.title,
-            presentationAuthor: presentation.author,
-            presentationDuration: presentation.duration,
-            presentationLink: `<a class="outbound-link" href="${presentation.shortUrl}">video</a>`,
-          });
+          if (typeof presentation === "object") {
+            eventData.push({
+              conferenceOrganizer: mainEvent.conferenceOwner,
+              conferenceName: mainEvent.conference,
+              conferenceYear: mainEvent.year,
+              presentationTitle: presentation.title,
+              presentationAuthor: presentation.author,
+              presentationDuration: presentation.duration,
+              presentationLink: `<a class="outbound-link" href="${presentation.shortUrl}">video</a>`,
+            });
+          }
         }
       }
 
