@@ -1,7 +1,11 @@
 <template>
   <div>
     <div v-if="isReady">
-      <vue-good-table :columns="columns" :rows="rows" />
+      <vue-good-table
+        :columns="columns"
+        :rows="rows"
+        :pagination-options="tableOptions"
+      />
     </div>
 
     <div v-else>
@@ -20,6 +24,12 @@ export default {
     return {
       baseUrl: process.env.VUE_APP_BASE_URL,
       isReady: false,
+      tableOptions: {
+        enabled: true,
+        mode: "records",
+            position: 'both',
+                perPage: 40
+      },
       columns: [
         {
           label: "Org",
