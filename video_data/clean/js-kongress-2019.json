@@ -1,0 +1,218 @@
+{
+  "conferenceOwner": "JS Kongress",
+  "conference": "JS Kongress",
+  "year": "2019",
+  "titleOriginal": "JS Kongress 2019",
+  "description": "Recorded Sessions from #jskongress 2019, March 11-12 in Munich | including sign language interpreter (DGS) and captions",
+  "modified": true,
+  "modifiedDate": "2022-02-23",
+  "H3g0BdyVVxA": {
+    "title": "Everything’s A Plugin: Understanding Webpack From The Inside Out",
+    "author": "Sean Larkin",
+    "shortUrl": "https://www.youtube.com/watch?v=H3g0BdyVVxA",
+    "duration": "20:21",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/H3g0BdyVVxA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAf4DhLRonQtD_qvKUez1v_8e4jiQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "XYAgmj527PU": {
+    "title": "Future JavaScript: what is still missing?",
+    "author": "Dr. Axel Rauschmayer",
+    "shortUrl": "https://www.youtube.com/watch?v=XYAgmj527PU",
+    "duration": "25:29",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/XYAgmj527PU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAjfDzKtUAbVtv5NtFtwGhX8gerVw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "eOqgg0xmG3w": {
+    "title": "How To Combine Event Sourcing Architecture In Your Node.js Server",
+    "author": "Tamar Twena-stern",
+    "shortUrl": "https://www.youtube.com/watch?v=eOqgg0xmG3w",
+    "duration": "23:50",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/eOqgg0xmG3w/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCwkdbkslTlgj-XWQHi61AoqHwM_Q",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "cTlT06vaG2I": {
+    "title": "A web platform feature is born! - massively distributed multiplayer engineering",
+    "author": "Mariko Kosaka",
+    "shortUrl": "https://www.youtube.com/watch?v=cTlT06vaG2I",
+    "duration": "26:22",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/cTlT06vaG2I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC1M77PnbcyYclgKxOqalntziNNTg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "c8hvW14VdkY": {
+    "title": "Taming reactive Node.js: Stream-oriented architecture with NestJS",
+    "author": "Kamil Myśliwiec",
+    "shortUrl": "https://www.youtube.com/watch?v=c8hvW14VdkY",
+    "duration": "22:05",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/c8hvW14VdkY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA_yNinwrcakTl1LqdSDl1DfLzibg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "qouq0qkkIPM": {
+    "title": "Mastering UIs with Finite State Machines",
+    "author": "Rubén Sospedra",
+    "shortUrl": "https://www.youtube.com/watch?v=qouq0qkkIPM",
+    "duration": "25:21",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/qouq0qkkIPM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC47-uazfupRC1vw_KLi20beT55Zg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "3qDY8CPBRHw": {
+    "title": "Knock knock, who’s there? Authenticating your single page apps using JSON Web Tokens",
+    "author": "Sam Bellen",
+    "shortUrl": "https://www.youtube.com/watch?v=3qDY8CPBRHw",
+    "duration": "24:41",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/3qDY8CPBRHw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC0ugU4BExR80gx74bHpRI-UIzE7Q",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "tchjAe0udO0": {
+    "title": "Dissecting a completely Functional-Reactive JavaScript app",
+    "author": "Netta Bondy",
+    "shortUrl": "https://www.youtube.com/watch?v=tchjAe0udO0",
+    "duration": "22:59",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/tchjAe0udO0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAvTc4BTqiCD1NqS6yf6Q_WbxHG6Q",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "ZuzSEQGE9qM": {
+    "title": "Independent deployment of the frontend with Docker and Kubernetes",
+    "author": "Monica Lent",
+    "shortUrl": "https://www.youtube.com/watch?v=ZuzSEQGE9qM",
+    "duration": "24:22",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/ZuzSEQGE9qM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDUtbJnUKPDwuPitqwgbkdnEfLSCw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "eXNph3xMRWY": {
+    "title": "Crafting state management - A principle based architecture",
+    "author": "Michael Hladky",
+    "shortUrl": "https://www.youtube.com/watch?v=eXNph3xMRWY",
+    "duration": "26:35",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/eXNph3xMRWY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB1Xm-qkCtiIXGYwLEKtJUY_ZxSRw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "tdqoj7DZK9c": {
+    "title": "The big piece of the post-LAMP pie",
+    "author": "Maria Shoaib",
+    "shortUrl": "https://www.youtube.com/watch?v=tdqoj7DZK9c",
+    "duration": "23:59",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/tdqoj7DZK9c/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC8WBgQ_PgpNKGx0RXcwCLT7nOofw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "UsEaqeUbNQo": {
+    "title": "Decomposition and beyond: frontend engineering at scale",
+    "author": "Nadia Makarevich",
+    "shortUrl": "https://www.youtube.com/watch?v=UsEaqeUbNQo",
+    "duration": "21:50",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/UsEaqeUbNQo/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB6CAIWvLdXrvKQxRncAdy3nKWlKw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "AX11VVfex6U": {
+    "title": "Angular, React, Vue and Co.",
+    "author": "Manfred Steyer",
+    "shortUrl": "https://www.youtube.com/watch?v=AX11VVfex6U",
+    "duration": "25:32",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/AX11VVfex6U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCGBIAr6uWZJsNwdB8b8OOtkC1gAA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "ZgMAYQmSJO4": {
+    "title": "Scaling Node.js applications with Kubernetes and Docker",
+    "author": "Erick Wendel",
+    "shortUrl": "https://www.youtube.com/watch?v=ZgMAYQmSJO4",
+    "duration": "21:26",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/ZgMAYQmSJO4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCssCafJu1TOTij4tJdoKNxUM4T1w",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "gA6sZYKNfig": {
+    "title": "Beyond JavaScript: The languages for the modern Web",
+    "author": "Julian Antonielli",
+    "shortUrl": "https://www.youtube.com/watch?v=gA6sZYKNfig",
+    "duration": "21:46",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/gA6sZYKNfig/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCgVIBQVpquzWa10BEeY48twOV7jA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "voFXsFRc6jU": {
+    "title": "Weaving Webs of Workers",
+    "author": "Trent Willis",
+    "shortUrl": "https://www.youtube.com/watch?v=voFXsFRc6jU",
+    "duration": "24:28",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/voFXsFRc6jU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAaqaCvTmjoPu0QimNzRjCqjDG-rQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "X3nAAzavoAU": {
+    "title": "Let your users decide what they want",
+    "author": "Narendra Shetty",
+    "shortUrl": "https://www.youtube.com/watch?v=X3nAAzavoAU",
+    "duration": "22:09",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/X3nAAzavoAU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDUhO6TKYyra6sJURgbe8cO3McWtQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "4Y7LnVILnGE": {
+    "title": "The Front-End Stands Alone",
+    "author": "Keerthana Krishnan",
+    "shortUrl": "https://www.youtube.com/watch?v=4Y7LnVILnGE",
+    "duration": "19:07",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/4Y7LnVILnGE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC2j_QHw6Ns2cO7hKRrw6BGVbWNow",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "MzRwwmKnrNQ": {
+    "title": "Streaming HTTP and GraphQL",
+    "author": "Rob Richard",
+    "shortUrl": "https://www.youtube.com/watch?v=MzRwwmKnrNQ",
+    "duration": "20:45",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/MzRwwmKnrNQ/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBBZCOn2ISDCCIoggx3kVCDAbVZcg",
+      "width": 336,
+      "height": 188
+    }
+  }
+}

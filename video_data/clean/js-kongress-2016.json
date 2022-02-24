@@ -1,0 +1,196 @@
+{
+  "conferenceOwner": "JS Kongress",
+  "conference": "JS Kongress",
+  "year": "2016",
+  "titleOriginal": "JS Kongress 2016",
+  "description": "We've published all the talks from JS Kongress 2016 in Munich to a handy playlist so you can watch them for free.\n\nThe playlist for deaf persons can be found here: https://www.youtube.com/playlist?list...\n\nFilmed at http://js-kongress.de on November 28-29 in Munich.",
+  "modified": true,
+  "modifiedDate": "2022-02-23",
+  "Y3D6ZhjHrK8": {
+    "title": "Future App Model",
+    "author": "Jake Archibald",
+    "shortUrl": "https://www.youtube.com/watch?v=Y3D6ZhjHrK8",
+    "duration": "25:49",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/Y3D6ZhjHrK8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBslsNLO_1Pk-kuVxGU3krBdTDlJQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "hSyXpM1L4B4": {
+    "title": "JavaScript for Microcontrollers with Espruino (ASL)",
+    "author": "Gordon Williams",
+    "shortUrl": "https://www.youtube.com/watch?v=hSyXpM1L4B4",
+    "duration": "26:00",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/hSyXpM1L4B4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAoF468-oXkudqVMTtxaXCU_wvhog",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "VQRzWiscu4U": {
+    "title": "Machine Learning in the Browser with Deep Neural Networks",
+    "author": "Oliver Zeigermann",
+    "shortUrl": "https://www.youtube.com/watch?v=VQRzWiscu4U",
+    "duration": "25:46",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/VQRzWiscu4U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDAXaSE8jmJJjyEjCe6jDQvdyzM0A",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "jtvRRd9cTTI": {
+    "title": "Let’s create a React powered game in 25 minutes",
+    "author": "Johannes Stein",
+    "shortUrl": "https://www.youtube.com/watch?v=jtvRRd9cTTI",
+    "duration": "25:32",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/jtvRRd9cTTI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCfO9Kf-tpthF9qGAaq2NM-lRSrAw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "5u7WtXPZNgE": {
+    "title": "From Scratch to Production",
+    "author": "Elisabeth Engel",
+    "shortUrl": "https://www.youtube.com/watch?v=5u7WtXPZNgE",
+    "duration": "25:08",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/5u7WtXPZNgE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAhR05KdwKzzB9SoA_SrnhVjVdB2w",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "pPBTNKXm7k8": {
+    "title": "Alice in Hardware Land",
+    "author": "Sayanee Basu",
+    "shortUrl": "https://www.youtube.com/watch?v=pPBTNKXm7k8",
+    "duration": "26:00",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/pPBTNKXm7k8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD4R6Q_CYlv-xsrYJQrld4hDE6SJQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "mVJQp3iii-U": {
+    "title": "From Software to Hardware",
+    "author": "Tomomi Imura",
+    "shortUrl": "https://www.youtube.com/watch?v=mVJQp3iii-U",
+    "duration": "24:02",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/mVJQp3iii-U/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDQHhxWmcWD0a828M4WGyO8YjI-rQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "mFC8W6ELVJY": {
+    "title": "360 & VR Video",
+    "author": "Raul Jimenez",
+    "shortUrl": "https://www.youtube.com/watch?v=mFC8W6ELVJY",
+    "duration": "23:24",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/mFC8W6ELVJY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD-JFrLTLQ0fXS12NhRahvkf5KBEg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "lNk9Ami4Zls": {
+    "title": "Writing Secure JavaScript",
+    "author": "Guy Podjarny",
+    "shortUrl": "https://www.youtube.com/watch?v=lNk9Ami4Zls",
+    "duration": "24:15",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/lNk9Ami4Zls/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCBcry4pfVWxUH_ILPJ0WhvpAnyQw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "U24QgbjoVkY": {
+    "title": "Making games with JavaScript and Phaser.io",
+    "author": "Martin Splitt",
+    "shortUrl": "https://www.youtube.com/watch?v=U24QgbjoVkY",
+    "duration": "25:50",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/U24QgbjoVkY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD8luJ-VmyMjtIwMPGCeRtlSTblDg",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "K6KDDGlTGqc": {
+    "title": "RPD — Reactive Patch Development",
+    "author": "Ulric Wilfred",
+    "shortUrl": "https://www.youtube.com/watch?v=K6KDDGlTGqc",
+    "duration": "7:02",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/K6KDDGlTGqc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0n7ZlPRfzy5p-lSu6d41SmxJCAA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "k9e9ux4_CBU": {
+    "title": "Building Component Libraries for Cross Team Use with React",
+    "author": "Joel Carras",
+    "shortUrl": "https://www.youtube.com/watch?v=k9e9ux4_CBU",
+    "duration": "7:15",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/k9e9ux4_CBU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDVnkelY1Xpif8hRo0UitkONjILaA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "oydXcQ6cxdY": {
+    "title": "Creating a flexible GraphQL backend in 5 minutes",
+    "author": "Robert Hostlowsky",
+    "shortUrl": "https://www.youtube.com/watch?v=oydXcQ6cxdY",
+    "duration": "8:27",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/oydXcQ6cxdY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDc3C_GbajwK2ZXH9G0yOY9Xxl5Qw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "YVXZX1yVzvI": {
+    "title": "The rise of javascript robotics",
+    "author": "Markus Leutwyler",
+    "shortUrl": "https://www.youtube.com/watch?v=YVXZX1yVzvI",
+    "duration": "7:55",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/YVXZX1yVzvI/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDszg08ebFPbAiee8rgMZ679Akv4w",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "03VykHAi_B4": {
+    "title": "Arbitrary Computation on the GPU Using WebGL",
+    "author": "Seth Samuel",
+    "shortUrl": "https://www.youtube.com/watch?v=03VykHAi_B4",
+    "duration": "23:42",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/03VykHAi_B4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDdeyQn78ZXuK_MQR-WIZ-rCXEhQQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "4IX_hU9Hp9I": {
+    "title": "Performance profiling for V8",
+    "author": "Franziska Hinkelmann",
+    "shortUrl": "https://www.youtube.com/watch?v=4IX_hU9Hp9I",
+    "duration": "24:47",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/4IX_hU9Hp9I/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCbnsgaVCxuesi_MLsxbE1E_zUkYw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "vMmHt578tf4": {
+    "title": "Kill all Humans, Development Tool Automation Like a Pro",
+    "author": "Jan Lehnardt",
+    "shortUrl": "https://www.youtube.com/watch?v=vMmHt578tf4",
+    "duration": "28:30",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/vMmHt578tf4/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBrVElcb1D0rAfyjtOLg8xgGmLUzQ",
+      "width": 336,
+      "height": 188
+    }
+  }
+}

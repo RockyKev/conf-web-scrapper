@@ -1,0 +1,251 @@
+{
+  "conferenceOwner": "JS Kongress",
+  "conference": "JS Kongress",
+  "year": "2017",
+  "titleOriginal": "JS Kongress 2017",
+  "description": "",
+  "modified": true,
+  "modifiedDate": "2022-02-23",
+  "W4RKqT7RiIk": {
+    "title": "Progressive Web Apps: An easy answer to unequal housework",
+    "author": "Sara Harkousse",
+    "shortUrl": "https://www.youtube.com/watch?v=W4RKqT7RiIk",
+    "duration": "22:59",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/W4RKqT7RiIk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLByR0C-jG-MTxzYEZeNpUYOeZG0Ew",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "cHDhGG-wPkk": {
+    "title": "OUTBREAK: index-sw-9a4c43b4b4778e7d1ca619eaaf5ac1db.js",
+    "author": "Alexander Pope",
+    "shortUrl": "https://www.youtube.com/watch?v=cHDhGG-wPkk",
+    "duration": "23:26",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/cHDhGG-wPkk/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAJMGr2hvnYk-F2Ww7rx_9puDvFIw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "Rop3EgPvBMw": {
+    "title": "Tomorrow’s JavaScript debugger",
+    "author": "Amit Zur",
+    "shortUrl": "https://www.youtube.com/watch?v=Rop3EgPvBMw",
+    "duration": "25:01",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/Rop3EgPvBMw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBf8N74BSwcUSV-LERjdK8C5BW_aQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "vMEzMVk8yAU": {
+    "title": "The Browser is not a document reader!",
+    "author": "Rachel Nabors",
+    "shortUrl": "https://www.youtube.com/watch?v=vMEzMVk8yAU",
+    "duration": "25:33",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/vMEzMVk8yAU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB9I5OfRwH0J9npmiWidFtkwJnvhQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "QBPWO_h2zck": {
+    "title": "“There is no spoon” - Building VR experiences in the Browser (With JS)",
+    "author": "Felipe Torres",
+    "shortUrl": "https://www.youtube.com/watch?v=QBPWO_h2zck",
+    "duration": "26:01",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/QBPWO_h2zck/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA6P84lPdgWOxWvN6tq0Wv_bMpW7g",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "v8ToNvB-_Q8": {
+    "title": "JavaScript’s “+” Operator and Decision Fatigue",
+    "author": "Emily Freeman",
+    "shortUrl": "https://www.youtube.com/watch?v=v8ToNvB-_Q8",
+    "duration": "20:19",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/v8ToNvB-_Q8/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDV0X1dr9Anp9Jimotipf-aK9fkJA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "pCIe8gMv5oY": {
+    "title": "A visual guide of rendering performance",
+    "author": "Martin Splitt",
+    "shortUrl": "https://www.youtube.com/watch?v=pCIe8gMv5oY",
+    "duration": "25:05",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/pCIe8gMv5oY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDY_XfSJIaSKbj0C09Qws1zrGqbDA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "39MliXD0prU": {
+    "title": "Open Web, Open Source, Open Communities",
+    "author": "Shubheksha Jalan",
+    "shortUrl": "https://www.youtube.com/watch?v=39MliXD0prU",
+    "duration": "13:01",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/39MliXD0prU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCwySuMKjXABoOniGKt7Ay_qTmNQw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "kkp2C1fir68": {
+    "title": "Machine learning in Education",
+    "author": "Michał Koźmiński",
+    "shortUrl": "https://www.youtube.com/watch?v=kkp2C1fir68",
+    "duration": "21:31",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/kkp2C1fir68/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDXvX3Co9TWMlJ_dIiKY9tt9Qz4NA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "cvybnv79Sek": {
+    "title": "A Tale of TurboFan: Four years that changed V8 forever",
+    "author": "Benedikt Meurer",
+    "shortUrl": "https://www.youtube.com/watch?v=cvybnv79Sek",
+    "duration": "24:07",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/cvybnv79Sek/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAFU7dhMgx54GxDEn6X5IJn2t1cNQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "hYiQ5svNjtw": {
+    "title": "Reactive Brain Waves",
+    "author": "Uri Shaked",
+    "shortUrl": "https://www.youtube.com/watch?v=hYiQ5svNjtw",
+    "duration": "26:28",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/hYiQ5svNjtw/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD0eULRi3CbvniK8C_h9T6FzqQgPA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "9x_ISrxxyzY": {
+    "title": "Short story: When a close-knit JS App family needed rescue from an unruly State butler",
+    "author": "Varsha Saha",
+    "shortUrl": "https://www.youtube.com/watch?v=9x_ISrxxyzY",
+    "duration": "21:48",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/9x_ISrxxyzY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCKjQypX-pMPWN91KFCCV2enmGf_A",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "Eh54j-hFbQg": {
+    "title": "Buffalo: when Node and APIs become BFFs",
+    "author": "Netto Farah",
+    "shortUrl": "https://www.youtube.com/watch?v=Eh54j-hFbQg",
+    "duration": "23:39",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/Eh54j-hFbQg/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDgaH5suRl4h92LthFqRr3hakT6zw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "vxciS8IUUJU": {
+    "title": "Dialectics of the Web Platform",
+    "author": "Ashley Williams",
+    "shortUrl": "https://www.youtube.com/watch?v=vxciS8IUUJU",
+    "duration": "25:00",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/vxciS8IUUJU/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDjl5PE3iu2Xc1_k0Qk3ws3f2SJkw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "5Xz6LJuvHCc": {
+    "title": "Building a radio data network with Node.js",
+    "author": "Thomas Watson",
+    "shortUrl": "https://www.youtube.com/watch?v=5Xz6LJuvHCc",
+    "duration": "25:46",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/5Xz6LJuvHCc/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDYkvaepd3LwCaQFNAQeuPndAyR-w",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "tIUiqFj4oSY": {
+    "title": "The Browser, The Machine Learning and The Future we might not have imagined just l",
+    "author": "Carmen Popoviciu",
+    "shortUrl": "https://www.youtube.com/watch?v=tIUiqFj4oSY",
+    "duration": "34:29",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/tIUiqFj4oSY/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBULdrNIYQTn7L6wa-_3XxnXWwSmA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "NlcV5nYJ-UM": {
+    "title": "Panel Discussion “The Future of JavaScript”",
+    "author": "Brian Terlson, Mathias Bynens, Benedikt Meurer",
+    "shortUrl": "https://www.youtube.com/watch?v=NlcV5nYJ-UM",
+    "duration": "26:46",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/NlcV5nYJ-UM/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC7EUHoerCoZ8-eu2m4UFlMzjcgsQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "W3_8sxUurzA": {
+    "title": "Break Up With Your Frontend Monolith",
+    "author": "Elisabeth Engel",
+    "shortUrl": "https://www.youtube.com/watch?v=W3_8sxUurzA",
+    "duration": "22:13",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/W3_8sxUurzA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAKyi-K02yXREfDEIOEvg61ksj1uQ",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "Cpo-xtsKp-Q": {
+    "title": "Rethinking web accessibility: Using AR for people with disabilities",
+    "author": "Shwetank Dixit",
+    "shortUrl": "https://www.youtube.com/watch?v=Cpo-xtsKp-Q",
+    "duration": "20:48",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/Cpo-xtsKp-Q/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAQrWCYZ76XYwrWP9geT9HykLD5Ag",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "0opjPdK55QA": {
+    "title": "ECMAScript of the Future: ES2017 & Beyond",
+    "author": "Brian Terlson",
+    "shortUrl": "https://www.youtube.com/watch?v=0opjPdK55QA",
+    "duration": "25:13",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/0opjPdK55QA/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBr0ntkGuANX4w3L2evyngSCo9Odw",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "SGkZbxIGDNE": {
+    "title": "WebAssembly for the rest of us",
+    "author": "Jan-erik Rediger",
+    "shortUrl": "https://www.youtube.com/watch?v=SGkZbxIGDNE",
+    "duration": "23:13",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/SGkZbxIGDNE/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDNjsZILwXtQCsEqKlAaDliCzEgfA",
+      "width": 336,
+      "height": 188
+    }
+  },
+  "xCBWS8G5Cm0": {
+    "title": "The parallel future of the browser (Closing Keynote)",
+    "author": "Lin Clark",
+    "shortUrl": "https://www.youtube.com/watch?v=xCBWS8G5Cm0",
+    "duration": "31:21",
+    "thumbnail": {
+      "url": "https://i.ytimg.com/vi/xCBWS8G5Cm0/hqdefault.jpg?sqp=-oaymwEjCNACELwBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAXRwGNfN_9zpPOSU-eHe5UvVg6Dg",
+      "width": 336,
+      "height": 188
+    }
+  }
+}
