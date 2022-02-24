@@ -4,11 +4,11 @@
 
 ## How this works
 
-1. we have a serverless function scrap data (`node_scripts/get-2b-salary-serverless.js`)
+TODO: fix this
+1. 
 
-That's done using [cheerio](https://github.com/cheeriojs/cheerio).
 
-This code scrapes manually.
+
 
 5. Finally we're merging the data using `node_scripts/merge-data-into-single.js`
 
