@@ -68,6 +68,7 @@ function cleanTheData(data, titleOwner, title, year, namingType) {
   };
 }
 
+
 function getPresentationAuthor(nameTitle, nameType) {
   let name, presentation, splitTitle;
   let theTitle = nameTitle;
@@ -94,9 +95,19 @@ function getPresentationAuthor(nameTitle, nameType) {
       break;
     case "Presentation - Name":
       if (theTitle.includes("-")) {
+
+        // if the array is more than 2
         splitTitle = theTitle.split("-");
-        presentation = splitTitle[0].trim();
-        name = splitTitle[1].trim();
+
+        if (splitTitle.length > 2) {
+          name = splitTitle.pop();
+          presentation = splitTitle.join(' ')
+        } else {
+          presentation = splitTitle[0].trim();
+          name = splitTitle[1].trim();  
+        }
+        
+
       } else {
         presentation = theTitle;
         name = "NO_AUTHOR_NAME";
@@ -129,6 +140,7 @@ function getPresentationAuthor(nameTitle, nameType) {
       }
 
       break;
+      
     case "Presentation | Name":
       if (theTitle.includes("|")) {
         splitTitle = theTitle.split("|");

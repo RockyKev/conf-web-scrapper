@@ -5,6 +5,7 @@
         :columns="columns"
         :rows="rows"
         :pagination-options="tableOptions"
+        styleClass="vgt-table striped"
       />
     </div>
 
@@ -27,10 +28,13 @@ export default {
       tableOptions: {
         enabled: true,
         mode: "records",
-            position: 'both',
-                perPage: 40
+        position: "both",
+        perPage: 40,
       },
       columns: [
+          // TODO: add filters
+          // https://xaksis.github.io/vue-good-table/guide/configuration/column-filter-options.html#trigger
+
         {
           label: "Org",
           field: "conferenceOrganizer",
